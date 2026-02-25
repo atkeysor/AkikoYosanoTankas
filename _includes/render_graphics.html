@@ -1,0 +1,13 @@
+{% comment %}
+  Usage: {% include render_graphics.html xml=include.content %}
+  Expects: xml string containing TEI XML with <graphic> elements
+  Outputs: HTML <img> tags for each <graphic> found, or nothing if none found.
+{% endcomment %}
+{% assign xml = include.xml | default: '' %}
+{% assign img_tags = '' %}
+{%- assign regex = 'url=["\']([^"\']+)["\']' -%}
+{%- assign matches = xml | scan: regex -%}
+{%- for url in matches -%}
+  {%- assign img_tags = img_tags | append: '<img src="' | append: url | append: '" class="tei-graphic" loading="lazy" style="max-width:100%;margin:1em auto;display:block;border-radius:0.5em;box-shadow:0 1px 6px #ccc;" />' -%}
+{%- endfor -%}
+{{ img_tags | raw }}

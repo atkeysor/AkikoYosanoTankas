@@ -1,0 +1,131 @@
+---
+layout: page
+show-title: true
+---
+
+<style>
+/* Pretty TEI display styles */
+
+.tei-xml {
+	background: #f9f9fc;
+	border-radius: 1em;
+	border: 1px solid #d0d0e0;
+	padding: 2em;
+	font-family: 'Georgia', 'Times New Roman', serif;
+	color: #222244;
+	overflow-x: auto;
+	margin: 2em 0;
+	box-shadow: 0 2px 12px 0 #e0e0f0;
+}
+.tei-xml .tei-header, .tei-xml teiHeader {
+	color: #8888aa;
+	font-size: 0.95em;
+	margin-bottom: 1em;
+}
+.tei-xml [type="translation"], .tei-xml .translation {
+	color: #2a7a2a;
+	font-style: italic;
+}
+.tei-xml [type="commentary"], .tei-xml .commentary {
+	color: #7a2a2a;
+	background: #f7eaea;
+	border-left: 3px solid #e0b0b0;
+	padding-left: 1em;
+	margin: 1em 0;
+}
+.tei-xml persName, .tei-xml .persName {
+	color: #2a4a7a;
+	font-weight: bold;
+}
+.tei-xml num, .tei-xml .num {
+	color: #7a2a7a;
+	font-family: 'Fira Mono', monospace;
+}
+.tei-xml graphic, .tei-xml .graphic {
+	display: block;
+	margin: 1em auto;
+	max-width: 100%;
+	border-radius: 0.5em;
+	box-shadow: 0 1px 6px #ccc;
+}
+.tei-xml ab, .tei-xml .ab {
+	display: block;
+	margin: 1em 0;
+	line-height: 1.7;
+}
+.tei-xml lb, .tei-xml .lb {
+	display: block;
+	margin-left: 1.5em;
+	color: #aaa;
+}
+.tei-xml gap, .tei-xml .gap {
+	color: #bbb;
+	font-style: italic;
+}
+.tei-xml supplied, .tei-xml .supplied {
+	color: #2a7a7a;
+	text-decoration: underline dotted #2a7a7a;
+}
+.tei-xml title, .tei-xml .title {
+	color: #2a2a7a;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-bottom: 0.5em;
+}
+</style>
+
+<style>
+/* TEI custom element display for browser rendering */
+.tei-xml tei-div {
+	display: block;
+	margin-bottom: 1.5rem;
+}
+.tei-xml tei-p {
+	display: block;
+	margin: 1em 0;
+	line-height: 1.6;
+}
+.tei-xml tei-head {
+	display: block;
+	font-weight: bold;
+	margin: 2em 0 1em;
+	font-size: 1.4em;
+}
+.tei-xml tei-lg {
+	display: block;
+	margin: 1.5em 0;
+}
+.tei-xml tei-l {
+	display: block;
+	margin-left: 2em;
+}
+.tei-xml tei-note {
+	display: none;
+}
+.show-notes .tei-xml tei-note {
+	display: inline;
+	color: #666;
+	font-size: 0.9em;
+}
+.tei-xml tei-persname,
+.tei-xml tei-placename {
+	font-variant: small-caps;
+}
+</style>
+
+
+<div id="ec"></div>
+
+<script src="https://www.unpkg.com/@cu-mkp/editioncrafter-umd"></script>
+<script>
+	EditionCrafter.viewer({
+		id: 'ec',
+		documentName: 'Your Document Name',
+		iiifManifest: '{{ site.baseurl }}/assets/editioncrafter/sample-tei/iiif/manifest.json',
+		transcriptionTypes: {
+			transcription: 'Transcription',
+			translation: 'Translation'
+		},
+		threePanel: true
+	});
+</script>
