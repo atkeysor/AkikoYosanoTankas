@@ -2,7 +2,7 @@
 	<teiHeader xml:id="header">
 		<fileDesc>
 			<titleStmt>
-				<title>Test</title>
+				<title>Akiko Yosano Tankas</title>
 			</titleStmt>
 			<publicationStmt>
 				<p/>
@@ -17,9 +17,13 @@
 			<body>
 				<pb facs="#f000" />
 			<div>
-			<p>
-			test
-			</p>
+			<lg>
+				<l>yo no chōni</l>
+				<l>sasameki tsukishi</l>
+				<l>hoshi no ima wo</l>
+				<l>gekai no hito no</l>
+				<l>bin no hotsure yo</l>
+			</lg>
 			</div>
 			</body>
 		</text>
@@ -27,9 +31,13 @@
 			<body>
 				<pb facs="#f000" />
 			<div>
-			<p>
-			test
-			</p>
+			<lg>
+				<l>bedroom curtains</l>
+				<l>the lovers' talk ends</l>
+				<l>now a star</l>
+				<l>one person of this earth</l>
+				<l>has stray hairs at the temple</l>
+			</lg>
 			</div>
 			</body>
 		</text>
@@ -38,32 +46,110 @@
 		<text xml:id="transcription">
 			<pb facs="#f001" />
 			<lg>
-				<l>yo no chōni</l>
-				<l>sasameki tsukishi</l>
-				<l>hoshi no ima wo</l>
-				<l>gekai no hito no</l>
-				<l>bin no hotsure yo</l>
+				<l>uta ni kike na</l>
+				<l>dare no no hana ni</l>
+				<l>akaki inamu</l>
+				<l>omomuki aru kana</l>
+				<l>haru tsumi motsu ko</l>
 			</lg>
 		</text>
 		<text xml:id="translation">
 			<pb facs="#f001" />
 			<lg>
-				<l>bedroom curtains</l>
-				<l>the lovers’ talk ends</l>
-				<l>now a star</l>
-				<l>one person of this earth</l>
-				<l>has stray hairs at the temple</l>
+				<l>ask among poems</l>
+				<l>who denied a bright red</l>
+				<l>to field flowers</l>
+				<l>a girl is so attractive</l>
+				<l>with her skin of scarlet</l>
+			</lg>
+		</text>
+	</div>
+		<div xml:id="poem3">
+		<text xml:id="transcription">
+			<pb facs="#f002" />
+			<lg>
+				<l>kami goshaku</l>
+				<l>tokinaba mizu ni</l>
+				<l>yawarakaki</l>
+				<l>otome gokoro wa</l>
+				<l>himete hanataji</l>
+			</lg>
+		</text>
+		<text xml:id="translation">
+			<pb facs="#f002" />
+			<lg>
+				<l>ahair five feet</l>
+				<l>loosened in water</l>
+				<l>softly sways</l>
+				<l>as does a young girl’s heart</l>
+				<l>unable to free itself</l>
+			</lg>
+		</text>
+	</div>
+		<div xml:id="poem4">
+		<text xml:id="transcription">
+			<pb facs="#f003" />
+			<lg>
+				<l>chi zo moyuru</l>
+				<l>kasan hitoyo no</l>
+				<l>yume no yado</l>
+				<l>haru wo yuku hito</l>
+				<l>kami otoshime na</l>
+			</lg>
+		</text>
+		<text xml:id="translation">
+			<pb facs="#f003" />
+			<lg>
+				<l>blood burning</l>
+				<l>will lend to one's night</l>
+				<l>a lodging for dreams</l>
+				<l>for one passing in spring</l>
+				<l>the gods will not scorn</l>
+			</lg>
+		</text>
+	</div>
+		<div xml:id="poem5">
+		<text xml:id="transcription">
+			<pb facs="#f004" />
+			<lg>
+				<l>tsuakbi sore mo</l>
+				<l>ume mo sanariki</l>
+				<l>shirokariki</l>
+				<l>waga tsumi towanu</l>
+				<l>iro momo ni miru</l>
+			</lg>
+		</text>
+		<text xml:id="translation">
+			<pb facs="#f004" />
+			<lg>
+				<l>pure white camellias</l>
+				<l>the same as <hi rend="italic">ume</hi> plums that</l>
+				<l>do not allow my love</l>
+				<l>what never blames my sin</l>
+				<l>is only the color of peach</l>
 			</lg>
 		</text>
 	</div>
 	<facsimile>
 		<surface xml:id="f000" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>1</label>
-			<graphic mimeType="image/jpeg" url="assets/img/test.jpg"/>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka1.jpg"/>
 		</surface>
 		<surface xml:id="f001" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>2</label>
-			<graphic mimeType="image/webp" url="assets/img/bcds-logo.webp"/>
+			<graphic mimeType="image/webp" url="assets/img/tanka2.jpg"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>2</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka3.jpg"/>
+		</surface>
+		<surface xml:id="f003" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>2</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka4.jpg"/>
+		</surface>
+		<surface xml:id="f004" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>2</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka5.jpg"/>
 		</surface>
 	</facsimile>
 </TEI>
