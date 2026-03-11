@@ -51,7 +51,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - name: Build EditionCrafter artifacts
-        run: npm run build:editioncrafter
+        run: npm run build
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
