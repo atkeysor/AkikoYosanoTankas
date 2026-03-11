@@ -17,6 +17,7 @@
     "@fontsource/inter": "^4.5.1"
   },
   "scripts": {
-    "build:editioncrafter": "editioncrafter process -i _includes/tei/sample-tei.xml -o assets/editioncrafter -u /assets/editioncrafter/"
+    "build": "editioncrafter process -i _includes/tei/sample-tei.xml -o assets/editioncrafter -u AkikoYosanoTankas/assets/editioncrafter/",
+    "build:local": "editioncrafter process -i _includes/tei/sample-tei.xml -o assets/editioncrafter -u /assets/editioncrafter/"
   }
 }
