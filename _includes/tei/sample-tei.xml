@@ -13,12 +13,6 @@
 		</fileDesc>
 	</teiHeader>
 
-
-	   <facsimile sameAs="https://iiif.llyfrgell.cymru/manifests/2.0/1489984/manifest.json">
-          <surface xml:id="f001" ulx="0" uly="0" lrx="4369" lry="5854" sameAs="http://dams.llgc.org.uk/iiif/2.0/1489984/canvas/1489985.json" ><label>1</label><graphic mimeType="application/json" url="https://iiif.llyfrgell.cymru/iiif/1489985"/></surface>
-          <surface xml:id="f002" ulx="0" uly="0" lrx="4470" lry="6064" sameAs="http://dams.llgc.org.uk/iiif/2.0/1489984/canvas/1489986.json" ><label>2</label><graphic mimeType="application/json" url="https://iiif.llyfrgell.cymru/iiif/1489986"/></surface>
-      </facsimile>
-
       <text xml:id="transcription">
           <body>
             <pb facs="#f001" />
@@ -70,9 +64,6 @@
           </body>
 
       </text>
-
-  </TEI>
-
 	<facsimile>
 		<surface xml:id="f0001" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>1</label>
@@ -95,4 +86,5 @@
 			<graphic mimeType="image/webp" url="assets/img/tanka5.jpg"/>
 		</surface>
 	</facsimile>
+
 </TEI>
