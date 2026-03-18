@@ -15,8 +15,9 @@
 
       <text xml:id="transcription">
           <body>
-            <pb facs="#f001" />
+           
             <div facs="#f001">
+				 <pb facs="#f001" />
 			<lg>
               	<l>yo no chōni</l>
 				<l>sasameki tsukishi</l>
@@ -25,8 +26,9 @@
 				<l>bin no hotsure yo</l>
 			</lg>
             </div>
-            <pb facs="#f002" /> <!--poem2 romaji-->
+           
             <div facs="#f002">
+				 <pb facs="#f002" /> <!--poem2 romaji-->
 			<lg>
 				<l>uta ni kike na</l>
 				<l>dare no no hana ni</l>
@@ -41,8 +43,9 @@
 
       <text xml:id="translation">
           <body>
-            <pb facs="#f001" />
+            
             <div facs="#f001">
+				<pb facs="#f001" />
 			<lg>
 				<l>bedroom curtains</l>
 				<l>the lovers' talk ends</l>
@@ -51,8 +54,9 @@
 				<l>has stray hairs at the temple</l>
 			</lg>
             </div>
-            <pb facs="#f002" />
+           
             <div facs="#f002">
+				 <pb facs="#f002" />
 			<lg>
 				<l>ask among poems</l>
 				<l>who denied a bright red</l>
