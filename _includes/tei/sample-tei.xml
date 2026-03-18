@@ -74,15 +74,15 @@
 			<graphic mimeType="image/webp" url="assets/img/tanka2.jpg"/>
 		</surface>
 		<surface xml:id="f003" ulx="0" uly="0" lrx="5800" lry="6500">
-			<label>2</label>
+			<label>3</label>
 			<graphic mimeType="image/webp" url="assets/img/tanka3.jpg"/>
 		</surface>
 		<surface xml:id="f004" ulx="0" uly="0" lrx="5800" lry="6500">
-			<label>2</label>
+			<label>4</label>
 			<graphic mimeType="image/webp" url="assets/img/tanka4.jpg"/>
 		</surface>
 		<surface xml:id="f005" ulx="0" uly="0" lrx="5800" lry="6500">
-			<label>2</label>
+			<label>5</label>
 			<graphic mimeType="image/webp" url="assets/img/tanka5.jpg"/>
 		</surface>
 	</facsimile>
