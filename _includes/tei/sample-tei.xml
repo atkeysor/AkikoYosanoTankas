@@ -732,6 +732,788 @@
 			<label>17</label>
 			<graphic mimeType="image/jpeg" url="assets/img/tanka17.jpg"/>
 		</surface>
+		<surface xml:id="f018" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>18</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka18.jpg"/>
+		</surface>
+		<surface xml:id="f019" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>19</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka19.jpg"/>
+		</surface>
+		<surface xml:id="f020" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>20</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka20.jpg"/>
+		</surface>
+		<surface xml:id="f021" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>21</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka21.jpg"/>
+		</surface>
+		<surface xml:id="f022" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>22</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka22.jpg"/>
+		</surface>
+		<surface xml:id="f023" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>23</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka23.jpg"/>
+		</surface>
+		<surface xml:id="f024" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>24</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka24.jpg"/>
+		</surface>
+		<surface xml:id="f025" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>25</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka25.jpg"/>
+		</surface>
+		<surface xml:id="f026" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>26</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka26.jpg"/>
+		</surface>
+		<surface xml:id="f027" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>27</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka27.jpg"/>
+		</surface>
+		<surface xml:id="f028" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>28</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka28.jpg"/>
+		</surface>
+		<surface xml:id="f029" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>29</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka29.jpg"/>
+		</surface>
+		<surface xml:id="f030" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>30</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka30.jpg"/>
+		</surface>
+		<surface xml:id="f031" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>31</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka31.jpg"/>
+		</surface>
+		<surface xml:id="f032" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>32</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka32.jpg"/>
+		</surface>
+		<surface xml:id="f033" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>33</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka33.jpg"/>
+		</surface>
+		<surface xml:id="f034" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>34</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka34.jpg"/>
+		</surface>
+		<surface xml:id="f035" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>35</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka35.jpg"/>
+		</surface>
+		<surface xml:id="f036" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>36</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka36.jpg"/>
+		</surface>
+		<surface xml:id="f037" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>37</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka37.jpg"/>
+		</surface>
+		<surface xml:id="f038" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>38</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka38.jpg"/>
+		</surface>
+		<surface xml:id="f039" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>39</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka39.jpg"/>
+		</surface>
+		<surface xml:id="f040" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>40</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka40.jpg"/>
+		</surface>
+		<surface xml:id="f041" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>41</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka41.jpg"/>
+		</surface>
+		<surface xml:id="f042" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>42</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka42.jpg"/>
+		</surface>
+		<surface xml:id="f043" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>43</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka43.jpg"/>
+		</surface>
+		<surface xml:id="f044" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>44</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka44.jpg"/>
+		</surface>
+		<surface xml:id="f045" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>45</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka45.jpg"/>
+		</surface>
+		<surface xml:id="f046" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>46</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka46.jpg"/>
+		</surface>
+		<surface xml:id="f047" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>47</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka47.jpg"/>
+		</surface>
+		<surface xml:id="f048" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>48</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka48.jpg"/>
+		</surface>
+		<surface xml:id="f049" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>49</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka49.jpg"/>
+		</surface>
+		<surface xml:id="f050" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>50</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka50.jpg"/>
+		</surface>
+		<surface xml:id="f051" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>51</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka51.jpg"/>
+		</surface>
+		<surface xml:id="f052" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>52</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka52.jpg"/>
+		</surface>
+		<surface xml:id="f053" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>53</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka53.jpg"/>
+		</surface>
+		<surface xml:id="f054" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>54</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka54.jpg"/>
+		</surface>
+		<surface xml:id="f055" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>55</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka55.jpg"/>
+		</surface>
+		<surface xml:id="f056" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>56</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka56.jpg"/>
+		</surface>
+		<surface xml:id="f057" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>57</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka57.jpg"/>
+		</surface>
+		<surface xml:id="f058" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>58</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka58.jpg"/>
+		</surface>
+		<surface xml:id="f059" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>59</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka59.jpg"/>
+		</surface>
+		<surface xml:id="f060" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>60</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka60.jpg"/>
+		</surface>
+		<surface xml:id="f061" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>61</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka61.jpg"/>
+		</surface>
+		<surface xml:id="f062" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>62</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka62.jpg"/>
+		</surface>
+		<surface xml:id="f063" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>63</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka63.jpg"/>
+		</surface>
+		<surface xml:id="f064" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>64</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka64.jpg"/>
+		</surface>
+		<surface xml:id="f065" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>65</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka65.jpg"/>
+		</surface>
+		<surface xml:id="f066" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>66</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka66.jpg"/>
+		</surface>
+		<surface xml:id="f067" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>67</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka67.jpg"/>
+		</surface>
+		<surface xml:id="f068" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>68</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka68.jpg"/>
+		</surface>
+		<surface xml:id="f069" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>69</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka69.jpg"/>
+		</surface>
+		<surface xml:id="f070" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>70</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka70.jpg"/>
+		</surface>
+		<surface xml:id="f071" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>71</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka71.jpg"/>
+		</surface>
+		<surface xml:id="f072" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>72</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka72.jpg"/>
+		</surface>
+		<surface xml:id="f073" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>73</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka73.jpg"/>
+		</surface>
+		<surface xml:id="f074" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>74</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka74.jpg"/>
+		</surface>
+		<surface xml:id="f075" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>75</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka75.jpg"/>
+		</surface>
+		<surface xml:id="f076" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>76</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka76.jpg"/>
+		</surface
+		<surface xml:id="f077" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>77</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka77.jpg"/>
+		</surface>
+		<surface xml:id="f078" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>78</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka78.jpg"/>
+		</surface>
+		<surface xml:id="f079" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>79</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka79.jpg"/>
+		</surface>
+		<surface xml:id="f080" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>80</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka80.jpg"/>
+		</surface>
+		<surface xml:id="f081" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>82</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka82.jpg"/>
+		</surface>
+		<surface xml:id="f083" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>83</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka83.jpg"/>
+		</surface>
+		<surface xml:id="f084" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>84</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka84.jpg"/>
+		</surface>
+		<surface xml:id="f085" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>85</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka85.jpg"/>
+		</surface>
+		<surface xml:id="f086" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>86</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka86.jpg"/>
+		</surface>
+		<surface xml:id="f087" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>87</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka87.jpg"/>
+		</surface>
+		<surface xml:id="f088" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>88</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka88.jpg"/>
+		</surface>
+		<surface xml:id="f089" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>89</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka89.jpg"/>
+		</surface>
+		<surface xml:id="f090" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>90</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka91.jpg"/>
+		</surface>
+		<surface xml:id="f092" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>92</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka92.jpg"/>
+		</surface>
+		<surface xml:id="f093" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>93</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka93.jpg"/>
+		</surface>
+		<surface xml:id="f094" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>94</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka94.jpg"/>
+		</surface>
+		<surface xml:id="f095" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>95</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka95.jpg"/>
+		</surface>
+		<surface xml:id="f096" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>96</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka96.jpg"/>
+		</surface>
+		<surface xml:id="f097" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>97</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka97.jpg"/>
+		</surface>
+		<surface xml:id="f098" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>98</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka98.jpg"/>
+		</surface>
+		<surface xml:id="f099" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>99</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka99.jpg"/>
+		</surface>
+		<surface xml:id="f100" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>100</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka100.jpg"/>
+		</surface>
+<!--100s-->
+				<surface xml:id="f101" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>101</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka101.jpg"/>
+		</surface>
+		<surface xml:id="f102" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>102</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka102.jpg"/>
+		</surface>
+		<surface xml:id="f103" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>103</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka103.jpg"/>
+		</surface>
+		<surface xml:id="f104" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>104</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka104.jpg"/>
+		</surface>
+		<surface xml:id="f105" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>105</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka105.jpg"/>
+		</surface>
+		<surface xml:id="f106" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>106</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka106.jpg"/>
+		</surface>
+		<surface xml:id="f107" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>107</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka107.jpg"/>
+		</surface>	
+		<surface xml:id="f108" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>108</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka108.jpg"/>
+		</surface>
+		<surface xml:id="f109" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>109</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka109.jpg"/>
+		</surface>
+		<surface xml:id="f110" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>110</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka110.jpg"/>
+		</surface>
+		<surface xml:id="f111" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>111</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka111.jpg"/>
+		</surface>
+		<surface xml:id="f112" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>112</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka112.jpg"/>
+		</surface>
+		<surface xml:id="f113" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>113</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka113.jpg"/>
+		</surface>
+		<surface xml:id="f114" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>114</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka114.jpg"/>
+		</surface>
+		<surface xml:id="f115" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>115</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka115.jpg"/>
+		</surface>
+		<surface xml:id="f116" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>116</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka116.jpg"/>
+		</surface>
+		<surface xml:id="f117" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>117</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka117.jpg"/>
+		</surface>
+		<surface xml:id="f118" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>118</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka118.jpg"/>
+		</surface>
+		<surface xml:id="f119" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>119</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka119.jpg"/>
+		</surface>
+		<surface xml:id="f120" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>120</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka120.jpg"/>
+		</surface>
+		<surface xml:id="f121" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>121</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka121.jpg"/>
+		</surface>
+		<surface xml:id="f122" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>122</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka122.jpg"/>
+		</surface>
+		<surface xml:id="f123" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>123</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka123.jpg"/>
+		</surface>
+		<surface xml:id="f124" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>124</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka124.jpg"/>
+		</surface>
+		<surface xml:id="f125" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>125</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka125.jpg"/>
+		</surface>
+		<surface xml:id="f126" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>126</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka126.jpg"/>
+		</surface>
+		<surface xml:id="f127" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>127</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka127.jpg"/>
+		</surface>
+		<surface xml:id="f128" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>128</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka128.jpg"/>
+		</surface>
+		<surface xml:id="f129" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>129</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka129.jpg"/>
+		</surface>
+		<surface xml:id="f130" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>130</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka130.jpg"/>
+		</surface>
+		<surface xml:id="f131" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>131</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka131.jpg"/>
+		</surface>
+		<surface xml:id="f132" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>132</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka132.jpg"/>
+		</surface>
+		<surface xml:id="f133" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>133</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka133.jpg"/>
+		</surface>
+		<surface xml:id="f134" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>134</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka134.jpg"/>
+		</surface>
+		<surface xml:id="f135" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>135</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka135.jpg"/>
+		</surface>
+		<surface xml:id="f136" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>136</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka136.jpg"/>
+		</surface>
+		<surface xml:id="f137" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>137</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka137.jpg"/>
+		</surface>
+		<surface xml:id="f138" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>138</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka138.jpg"/>
+		</surface>
+		<surface xml:id="f139" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>139</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka139.jpg"/>
+		</surface>
+		<surface xml:id="f140" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>140</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka140.jpg"/>
+		</surface>
+		<surface xml:id="f141" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>141</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka141.jpg"/>
+		</surface>
+		<surface xml:id="f142" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>142</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka142.jpg"/>
+		</surface>
+		<surface xml:id="f143" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>143</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka143.jpg"/>
+		</surface>
+		<surface xml:id="f144" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>144</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka144.jpg"/>
+		</surface>
+		<surface xml:id="f145" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>145</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka145.jpg"/>
+		</surface>
+		<surface xml:id="f146" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>146</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka146.jpg"/>
+		</surface>
+		<surface xml:id="f147" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>147</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka147.jpg"/>
+		</surface>
+		<surface xml:id="f148" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>148</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka148.jpg"/>
+		</surface>
+		<surface xml:id="f149" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>149</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka149.jpg"/>
+		</surface>
+		<surface xml:id="f150" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>150</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka150.jpg"/>
+		</surface>
+		<surface xml:id="f151" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>151</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka151.jpg"/>
+		</surface>
+		<surface xml:id="f152" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>152</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka152.jpg"/>
+		</surface>
+		<surface xml:id="f153" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>153</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka153.jpg"/>
+		</surface>
+		<surface xml:id="f154" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>154</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka154.jpg"/> 
+		</surface>
+		<surface xml:id="f055" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>55</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka55.jpg"/>
+		</surface>
+		<surface xml:id="f056" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>56</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka56.jpg"/>
+		</surface>
+		<surface xml:id="f057" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>57</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka57.jpg"/>
+		</surface>
+		<surface xml:id="f058" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>58</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka58.jpg"/>
+		</surface>
+		<surface xml:id="f059" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>59</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka59.jpg"/>
+		</surface>
+		<surface xml:id="f060" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>60</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka60.jpg"/>
+		</surface>
+		<surface xml:id="f061" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>61</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka61.jpg"/>
+		</surface>
+		<surface xml:id="f062" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>62</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka62.jpg"/>
+		</surface>
+		<surface xml:id="f063" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>63</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka63.jpg"/>
+		</surface>
+		<surface xml:id="f064" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>64</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka64.jpg"/>
+		</surface>
+		<surface xml:id="f065" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>65</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka65.jpg"/>
+		</surface>
+		<surface xml:id="f066" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>66</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka66.jpg"/>
+		</surface>
+		<surface xml:id="f067" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>67</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka67.jpg"/>
+		</surface>
+		<surface xml:id="f068" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>68</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka68.jpg"/>
+		</surface>
+		<surface xml:id="f069" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>69</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka69.jpg"/>
+		</surface>
+		<surface xml:id="f070" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>70</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka70.jpg"/>
+		</surface>
+		<surface xml:id="f071" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>71</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka71.jpg"/>
+		</surface>
+		<surface xml:id="f072" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>72</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka72.jpg"/>
+		</surface>
+		<surface xml:id="f073" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>73</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka73.jpg"/>
+		</surface>
+		<surface xml:id="f074" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>74</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka74.jpg"/>
+		</surface>
+		<surface xml:id="f075" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>75</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka75.jpg"/>
+		</surface>
+		<surface xml:id="f076" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>76</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka76.jpg"/>
+		</surface
+		<surface xml:id="f077" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>77</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka77.jpg"/>
+		</surface>
+		<surface xml:id="f078" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>78</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka78.jpg"/>
+		</surface>
+		<surface xml:id="f079" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>79</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka79.jpg"/>
+		</surface>
+		<surface xml:id="f080" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>80</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka80.jpg"/>
+		</surface>
+		<surface xml:id="f081" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>82</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka82.jpg"/>
+		</surface>
+		<surface xml:id="f083" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>83</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka83.jpg"/>
+		</surface>
+		<surface xml:id="f084" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>84</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka84.jpg"/>
+		</surface>
+		<surface xml:id="f085" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>85</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka85.jpg"/>
+		</surface>
+		<surface xml:id="f086" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>86</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka86.jpg"/>
+		</surface>
+		<surface xml:id="f087" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>87</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka87.jpg"/>
+		</surface>
+		<surface xml:id="f088" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>88</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka88.jpg"/>
+		</surface>
+		<surface xml:id="f089" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>89</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka89.jpg"/>
+		</surface>
+		<surface xml:id="f090" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>90</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka91.jpg"/>
+		</surface>
+		<surface xml:id="f092" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>92</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka92.jpg"/>
+		</surface>
+		<surface xml:id="f093" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>93</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka93.jpg"/>
+		</surface>
+		<surface xml:id="f094" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>94</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka94.jpg"/>
+		</surface>
+		<surface xml:id="f095" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>95</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka95.jpg"/>
+		</surface>
+		<surface xml:id="f096" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>96</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka96.jpg"/>
+		</surface>
+		<surface xml:id="f097" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>97</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka97.jpg"/>
+		</surface>
+		<surface xml:id="f098" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>98</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka98.jpg"/>
+		</surface>
+		<surface xml:id="f099" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>99</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka99.jpg"/>
+		</surface>
+<!--200s-->
+				<surface xml:id="f001" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>1</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka1.jpg"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>2</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka2.jpg"/>
+		</surface>
+		<surface xml:id="f003" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>3</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka3.jpg"/>
+		</surface>
+		<surface xml:id="f004" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>4</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka4.jpg"/>
+		</surface>
+		<surface xml:id="f005" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>5</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka5.jpg"/>
+		</surface>
+		<surface xml:id="f006" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>6</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka6.jpg"/>
+		</surface>
+		<surface xml:id="f007" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>7</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka7.jpg"/>
+		</surface>	
+		<surface xml:id="f008" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>8</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka8.jpg"/>
+		</surface>
+		<surface xml:id="f009" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>9</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka9.jpg"/>
+		</surface>
+		<surface xml:id="f010" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>10</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka10.jpg"/>
+		</surface>
+		<surface xml:id="f011" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>11</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka11.jpg"/>
+		</surface>
+		<surface xml:id="f012" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>12</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka12.jpg"/>
+		</surface>
+		<surface xml:id="f013" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>13</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka13.jpg"/>
+		</surface>
+		<surface xml:id="f014" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>14</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka14.jpg"/>
+		</surface>
+		<surface xml:id="f015" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>15</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka15.jpg"/>
+		</surface>
+		<surface xml:id="f016" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>16</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka16.jpg"/>
+		</surface>
+		<surface xml:id="f017" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>17</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka17.jpg"/>
+		</surface>
 		<surface xml:id="f0178" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>18</label>
 			<graphic mimeType="image/jpeg" url="assets/img/tanka18.jpg"/>
@@ -767,6 +1549,679 @@
 		<surface xml:id="f026" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>26</label>
 			<graphic mimeType="image/webp" url="assets/img/tanka26.jpg"/>
+		</surface>
+		<surface xml:id="f027" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>27</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka27.jpg"/>
+		</surface>
+		<surface xml:id="f028" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>28</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka28.jpg"/>
+		</surface>
+		<surface xml:id="f029" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>29</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka29.jpg"/>
+		</surface>
+		<surface xml:id="f030" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>30</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka30.jpg"/>
+		</surface>
+		<surface xml:id="f031" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>31</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka31.jpg"/>
+		</surface>
+		<surface xml:id="f032" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>32</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka32.jpg"/>
+		</surface>
+		<surface xml:id="f033" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>33</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka33.jpg"/>
+		</surface>
+		<surface xml:id="f034" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>34</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka34.jpg"/>
+		</surface>
+		<surface xml:id="f035" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>35</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka35.jpg"/>
+		</surface>
+		<surface xml:id="f036" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>36</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka36.jpg"/>
+		</surface>
+		<surface xml:id="f037" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>37</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka37.jpg"/>
+		</surface>
+		<surface xml:id="f038" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>38</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka38.jpg"/>
+		</surface>
+		<surface xml:id="f039" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>39</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka39.jpg"/>
+		</surface>
+		<surface xml:id="f040" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>40</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka40.jpg"/>
+		</surface>
+		<surface xml:id="f041" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>41</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka41.jpg"/>
+		</surface>
+		<surface xml:id="f042" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>42</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka42.jpg"/>
+		</surface>
+		<surface xml:id="f043" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>43</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka43.jpg"/>
+		</surface>
+		<surface xml:id="f044" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>44</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka44.jpg"/>
+		</surface>
+		<surface xml:id="f045" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>45</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka45.jpg"/>
+		</surface>
+		<surface xml:id="f046" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>46</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka46.jpg"/>
+		</surface>
+		<surface xml:id="f047" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>47</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka47.jpg"/>
+		</surface>
+		<surface xml:id="f048" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>48</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka48.jpg"/>
+		</surface>
+		<surface xml:id="f049" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>49</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka49.jpg"/>
+		</surface>
+		<surface xml:id="f050" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>50</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka50.jpg"/>
+		</surface>
+		<surface xml:id="f051" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>51</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka51.jpg"/>
+		</surface>
+		<surface xml:id="f052" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>52</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka52.jpg"/>
+		</surface>
+		<surface xml:id="f053" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>53</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka53.jpg"/>
+		</surface>
+		<surface xml:id="f054" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>54</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka54.jpg"/>
+		</surface>
+		<surface xml:id="f055" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>55</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka55.jpg"/>
+		</surface>
+		<surface xml:id="f056" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>56</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka56.jpg"/>
+		</surface>
+		<surface xml:id="f057" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>57</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka57.jpg"/>
+		</surface>
+		<surface xml:id="f058" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>58</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka58.jpg"/>
+		</surface>
+		<surface xml:id="f059" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>59</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka59.jpg"/>
+		</surface>
+		<surface xml:id="f060" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>60</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka60.jpg"/>
+		</surface>
+		<surface xml:id="f061" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>61</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka61.jpg"/>
+		</surface>
+		<surface xml:id="f062" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>62</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka62.jpg"/>
+		</surface>
+		<surface xml:id="f063" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>63</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka63.jpg"/>
+		</surface>
+		<surface xml:id="f064" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>64</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka64.jpg"/>
+		</surface>
+		<surface xml:id="f065" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>65</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka65.jpg"/>
+		</surface>
+		<surface xml:id="f066" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>66</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka66.jpg"/>
+		</surface>
+		<surface xml:id="f067" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>67</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka67.jpg"/>
+		</surface>
+		<surface xml:id="f068" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>68</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka68.jpg"/>
+		</surface>
+		<surface xml:id="f069" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>69</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka69.jpg"/>
+		</surface>
+		<surface xml:id="f070" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>70</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka70.jpg"/>
+		</surface>
+		<surface xml:id="f071" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>71</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka71.jpg"/>
+		</surface>
+		<surface xml:id="f072" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>72</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka72.jpg"/>
+		</surface>
+		<surface xml:id="f073" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>73</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka73.jpg"/>
+		</surface>
+		<surface xml:id="f074" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>74</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka74.jpg"/>
+		</surface>
+		<surface xml:id="f075" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>75</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka75.jpg"/>
+		</surface>
+		<surface xml:id="f076" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>76</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka76.jpg"/>
+		</surface
+		<surface xml:id="f077" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>77</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka77.jpg"/>
+		</surface>
+		<surface xml:id="f078" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>78</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka78.jpg"/>
+		</surface>
+		<surface xml:id="f079" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>79</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka79.jpg"/>
+		</surface>
+		<surface xml:id="f080" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>80</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka80.jpg"/>
+		</surface>
+		<surface xml:id="f081" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>82</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka82.jpg"/>
+		</surface>
+		<surface xml:id="f083" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>83</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka83.jpg"/>
+		</surface>
+		<surface xml:id="f084" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>84</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka84.jpg"/>
+		</surface>
+		<surface xml:id="f085" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>85</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka85.jpg"/>
+		</surface>
+		<surface xml:id="f086" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>86</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka86.jpg"/>
+		</surface>
+		<surface xml:id="f087" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>87</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka87.jpg"/>
+		</surface>
+		<surface xml:id="f088" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>88</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka88.jpg"/>
+		</surface>
+		<surface xml:id="f089" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>89</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka89.jpg"/>
+		</surface>
+		<surface xml:id="f090" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>90</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka91.jpg"/>
+		</surface>
+		<surface xml:id="f092" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>92</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka92.jpg"/>
+		</surface>
+		<surface xml:id="f093" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>93</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka93.jpg"/>
+		</surface>
+		<surface xml:id="f094" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>94</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka94.jpg"/>
+		</surface>
+		<surface xml:id="f095" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>95</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka95.jpg"/>
+		</surface>
+		<surface xml:id="f096" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>96</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka96.jpg"/>
+		</surface>
+		<surface xml:id="f097" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>97</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka97.jpg"/>
+		</surface>
+		<surface xml:id="f098" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>98</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka98.jpg"/>
+		</surface>
+		<surface xml:id="f099" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>99</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka99.jpg"/>
+		</surface>
+	<!--300s-->
+				<surface xml:id="f001" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>1</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka1.jpg"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>2</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka2.jpg"/>
+		</surface>
+		<surface xml:id="f003" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>3</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka3.jpg"/>
+		</surface>
+		<surface xml:id="f004" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>4</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka4.jpg"/>
+		</surface>
+		<surface xml:id="f005" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>5</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka5.jpg"/>
+		</surface>
+		<surface xml:id="f006" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>6</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka6.jpg"/>
+		</surface>
+		<surface xml:id="f007" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>7</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka7.jpg"/>
+		</surface>	
+		<surface xml:id="f008" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>8</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka8.jpg"/>
+		</surface>
+		<surface xml:id="f009" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>9</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka9.jpg"/>
+		</surface>
+		<surface xml:id="f010" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>10</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka10.jpg"/>
+		</surface>
+		<surface xml:id="f011" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>11</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka11.jpg"/>
+		</surface>
+		<surface xml:id="f012" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>12</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka12.jpg"/>
+		</surface>
+		<surface xml:id="f013" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>13</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka13.jpg"/>
+		</surface>
+		<surface xml:id="f014" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>14</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka14.jpg"/>
+		</surface>
+		<surface xml:id="f015" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>15</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka15.jpg"/>
+		</surface>
+		<surface xml:id="f016" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>16</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka16.jpg"/>
+		</surface>
+		<surface xml:id="f017" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>17</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka17.jpg"/>
+		</surface>
+		<surface xml:id="f0178" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>18</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka18.jpg"/>
+		</surface>
+		<surface xml:id="f019" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>19</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka19.jpg"/>
+		</surface>
+		<surface xml:id="f020" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>20</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka20.jpg"/>
+		</surface>
+		<surface xml:id="f021" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>21</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka21.jpg"/>
+		</surface>
+		<surface xml:id="f022" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>22</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka22.jpg"/>
+		</surface>
+		<surface xml:id="f023" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>23</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka23.jpg"/>
+		</surface>
+		<surface xml:id="f024" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>24</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka24.jpg"/>
+		</surface>
+		<surface xml:id="f025" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>25</label>
+			<graphic mimeType="image/jpeg" url="assets/img/tanka25.jpg"/>
+		</surface>
+		<surface xml:id="f026" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>26</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka26.jpg"/>
+		</surface>
+		<surface xml:id="f027" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>27</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka27.jpg"/>
+		</surface>
+		<surface xml:id="f028" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>28</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka28.jpg"/>
+		</surface>
+		<surface xml:id="f029" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>29</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka29.jpg"/>
+		</surface>
+		<surface xml:id="f030" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>30</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka30.jpg"/>
+		</surface>
+		<surface xml:id="f031" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>31</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka31.jpg"/>
+		</surface>
+		<surface xml:id="f032" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>32</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka32.jpg"/>
+		</surface>
+		<surface xml:id="f033" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>33</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka33.jpg"/>
+		</surface>
+		<surface xml:id="f034" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>34</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka34.jpg"/>
+		</surface>
+		<surface xml:id="f035" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>35</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka35.jpg"/>
+		</surface>
+		<surface xml:id="f036" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>36</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka36.jpg"/>
+		</surface>
+		<surface xml:id="f037" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>37</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka37.jpg"/>
+		</surface>
+		<surface xml:id="f038" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>38</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka38.jpg"/>
+		</surface>
+		<surface xml:id="f039" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>39</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka39.jpg"/>
+		</surface>
+		<surface xml:id="f040" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>40</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka40.jpg"/>
+		</surface>
+		<surface xml:id="f041" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>41</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka41.jpg"/>
+		</surface>
+		<surface xml:id="f042" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>42</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka42.jpg"/>
+		</surface>
+		<surface xml:id="f043" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>43</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka43.jpg"/>
+		</surface>
+		<surface xml:id="f044" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>44</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka44.jpg"/>
+		</surface>
+		<surface xml:id="f045" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>45</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka45.jpg"/>
+		</surface>
+		<surface xml:id="f046" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>46</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka46.jpg"/>
+		</surface>
+		<surface xml:id="f047" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>47</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka47.jpg"/>
+		</surface>
+		<surface xml:id="f048" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>48</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka48.jpg"/>
+		</surface>
+		<surface xml:id="f049" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>49</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka49.jpg"/>
+		</surface>
+		<surface xml:id="f050" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>50</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka50.jpg"/>
+		</surface>
+		<surface xml:id="f051" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>51</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka51.jpg"/>
+		</surface>
+		<surface xml:id="f052" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>52</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka52.jpg"/>
+		</surface>
+		<surface xml:id="f053" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>53</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka53.jpg"/>
+		</surface>
+		<surface xml:id="f054" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>54</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka54.jpg"/>
+		</surface>
+		<surface xml:id="f055" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>55</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka55.jpg"/>
+		</surface>
+		<surface xml:id="f056" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>56</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka56.jpg"/>
+		</surface>
+		<surface xml:id="f057" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>57</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka57.jpg"/>
+		</surface>
+		<surface xml:id="f058" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>58</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka58.jpg"/>
+		</surface>
+		<surface xml:id="f059" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>59</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka59.jpg"/>
+		</surface>
+		<surface xml:id="f060" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>60</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka60.jpg"/>
+		</surface>
+		<surface xml:id="f061" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>61</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka61.jpg"/>
+		</surface>
+		<surface xml:id="f062" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>62</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka62.jpg"/>
+		</surface>
+		<surface xml:id="f063" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>63</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka63.jpg"/>
+		</surface>
+		<surface xml:id="f064" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>64</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka64.jpg"/>
+		</surface>
+		<surface xml:id="f065" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>65</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka65.jpg"/>
+		</surface>
+		<surface xml:id="f066" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>66</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka66.jpg"/>
+		</surface>
+		<surface xml:id="f067" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>67</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka67.jpg"/>
+		</surface>
+		<surface xml:id="f068" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>68</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka68.jpg"/>
+		</surface>
+		<surface xml:id="f069" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>69</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka69.jpg"/>
+		</surface>
+		<surface xml:id="f070" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>70</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka70.jpg"/>
+		</surface>
+		<surface xml:id="f071" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>71</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka71.jpg"/>
+		</surface>
+		<surface xml:id="f072" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>72</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka72.jpg"/>
+		</surface>
+		<surface xml:id="f073" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>73</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka73.jpg"/>
+		</surface>
+		<surface xml:id="f074" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>74</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka74.jpg"/>
+		</surface>
+		<surface xml:id="f075" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>75</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka75.jpg"/>
+		</surface>
+		<surface xml:id="f076" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>76</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka76.jpg"/>
+		</surface
+		<surface xml:id="f077" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>77</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka77.jpg"/>
+		</surface>
+		<surface xml:id="f078" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>78</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka78.jpg"/>
+		</surface>
+		<surface xml:id="f079" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>79</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka79.jpg"/>
+		</surface>
+		<surface xml:id="f080" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>80</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka80.jpg"/>
+		</surface>
+		<surface xml:id="f081" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>82</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka82.jpg"/>
+		</surface>
+		<surface xml:id="f083" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>83</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka83.jpg"/>
+		</surface>
+		<surface xml:id="f084" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>84</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka84.jpg"/>
+		</surface>
+		<surface xml:id="f085" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>85</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka85.jpg"/>
+		</surface>
+		<surface xml:id="f086" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>86</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka86.jpg"/>
+		</surface>
+		<surface xml:id="f087" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>87</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka87.jpg"/>
+		</surface>
+		<surface xml:id="f088" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>88</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka88.jpg"/>
+		</surface>
+		<surface xml:id="f089" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>89</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka89.jpg"/>
+		</surface>
+		<surface xml:id="f090" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>90</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka91.jpg"/>
+		</surface>
+		<surface xml:id="f092" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>92</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka92.jpg"/>
+		</surface>
+		<surface xml:id="f093" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>93</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka93.jpg"/>
+		</surface>
+		<surface xml:id="f094" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>94</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka94.jpg"/>
+		</surface>
+		<surface xml:id="f095" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>95</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka95.jpg"/>
+		</surface>
+		<surface xml:id="f096" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>96</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka96.jpg"/>
+		</surface>
+		<surface xml:id="f097" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>97</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka97.jpg"/>
+		</surface>
+		<surface xml:id="f098" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>98</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka98.jpg"/>
+		</surface>
+		<surface xml:id="f099" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>99</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka99.jpg"/>
 		</surface>
 	</facsimile>
 
