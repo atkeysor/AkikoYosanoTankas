@@ -633,8 +633,9 @@
       </text>
 
 		<!--trying to add translations here...-->
-          <body>
+
       <text xml:id="moretranslations">
+		  <body>
 			<div facs="#f026">
 				<pb facs="#f026" />
 			<lg>
