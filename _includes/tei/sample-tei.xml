@@ -50,6 +50,7 @@
 				<l>michi wo toku kimi</l>
 			</lg>
             </div>
+			  
    		 <div facs="#f003">
 				 <pb facs="#f003" />
 			 <lg>
@@ -628,47 +629,8 @@
 			</lg>
             </div>
 			  
-          </body>
-
-
-
-      <text xml:id="translation">
-          <body>
-            
-            <div facs="#f001">
-				<pb facs="#f001" />
-			<lg>
-				<l>bedroom curtains</l>
-				<l>the lovers' talk ends</l>
-				<l>now a star</l>
-				<l>one person of this earth</l>
-				<l>has stray hairs at the temple</l>
-			</lg>
-            </div>
-           
-            <div facs="#f002">
-				 <pb facs="#f002" />
-			<lg>
-				<l>ask among poems</l>
-				<l>who denied a bright red</l>
-				<l>to field flowers</l>
-				<l>a girl is so attractive</l>
-				<l>with her skin of scarlet</l>
-			</lg>
-            </div>
-			  
-			<div facs="#f026">
-				<pb facs="#f026" />
-			<lg>
-				<l>soft skin</l>
-				<l>warm with heated blood</l>
-				<l>not touching it</l>
-				<l>on the path of virtue</l>
-				<l>aren’t you lonely?</l>
-			</lg>
-            </div>
-			  
-          </body>
+     	 </body>
+      </text>
 
 		<!--trying to add translations here...-->
           <body>
