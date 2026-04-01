@@ -13,6 +13,8 @@
 		</fileDesc>
 	</teiHeader>
 
+<!-- transcription: 'Romaji', translation: 'ReicholdTranslation', moretranslations: 'Add'l Translations'-->
+	
       <text xml:id="transcription">
           <body>
            
@@ -628,26 +630,63 @@
 			  
           </body>
 
+
+
+      <text xml:id="translation">
           <body>
             
+            <div facs="#f001">
+				<pb facs="#f001" />
+			<lg>
+				<l>bedroom curtains</l>
+				<l>the lovers' talk ends</l>
+				<l>now a star</l>
+				<l>one person of this earth</l>
+				<l>has stray hairs at the temple</l>
+			</lg>
+            </div>
+           
+            <div facs="#f002">
+				 <pb facs="#f002" />
+			<lg>
+				<l>ask among poems</l>
+				<l>who denied a bright red</l>
+				<l>to field flowers</l>
+				<l>a girl is so attractive</l>
+				<l>with her skin of scarlet</l>
+			</lg>
+            </div>
+			  
 			<div facs="#f026">
 				<pb facs="#f026" />
 			<lg>
-				<l>Rather than trying</l>
-				<l>to touch the burning passion</l>
-				<l>pulsing beneath my soft</l>
-				<l>pale skin, you preach mortality.</l>
-				<l>Aren’t you awfully lonely?</l>
+				<l>soft skin</l>
+				<l>warm with heated blood</l>
+				<l>not touching it</l>
+				<l>on the path of virtue</l>
+				<l>aren’t you lonely?</l>
 			</lg>
             </div>
 			  
           </body>
 
+		<!--trying to add translations here...-->
           <body>
-            
+      <text xml:id="moretranslations">
 			<div facs="#f026">
 				<pb facs="#f026" />
 			<lg>
+			<l><hi rend="bold">Hamill/Gibson</hi></l>
+				<l> </l>
+				<l>Rather than trying</l>
+				<l>to touch the burning passion</l>
+				<l>pulsing beneath my soft</l>
+				<l>pale skin, you preach mortality.</l>
+				<l>Aren’t you awfully lonely?</l>
+			<l> </l>
+			<l> </l>
+			<l><hi rend="bold">Maloney/Oshiro/hi></l>
+				<l> </l>
 				<l>Unable to touch</l>
 				<l>the hot tide of blood</l>
 				<l>beneath my tender skin.</l>
@@ -658,6 +697,8 @@
 			  
           </body>
       </text>
+		  
+    
 		  
 	<facsimile>
 		<surface xml:id="f001" ulx="0" uly="0" lrx="5800" lry="6500">
