@@ -37,11 +37,22 @@
 				<l>haru tsumi motsu ko</l>
 			</lg>
             </div>
-          </body>
 
+			 <div facs="#f026">
+				 <pb facs="#f026" />
+			<lg>
+              	<l>yawahada no</l>
+				<l>atsuki chishio ni</l>
+				<l>fure momide</l>
+				<l>sabishikarazu ya</l>
+				<l>michi wo toku kimi</l>
+			</lg>
+            </div>
+			  
+          </body>
       </text>
 
-      <text xml:id="translation">
+      <text xml:id="translation1">
           <body>
             
             <div facs="#f001">
@@ -65,9 +76,56 @@
 				<l>with her skin of scarlet</l>
 			</lg>
             </div>
+			  
+			<div facs="#f026">
+				<pb facs="#f026" />
+			<lg>
+				<l>soft skin</l>
+				<l>warm with heated blood</l>
+				<l>not touching it</l>
+				<l>on the path of virtue</l>
+				<l>aren’t you lonely?</l>
+			</lg>
+            </div>
+			  
           </body>
-
       </text>
+	
+      <text xml:id="translation2">
+          <body>
+            
+			<div facs="#f026">
+				<pb facs="#f026" />
+			<lg>
+				<l>Rather than trying</l>
+				<l>to touch the burning passion</l>
+				<l>pulsing beneath my soft</l>
+				<l>pale skin, you preach mortality.</l>
+				<l>Aren’t you awfully lonely?</l>
+			</lg>
+            </div>
+			  
+          </body>
+      </text>
+		  
+      <text xml:id="translation3">
+          <body>
+            
+            </div>
+			         <div facs="#f026">
+				<pb facs="#f026" />
+			<lg>
+				<l>Unable to touch</l>
+				<l>the hot tide of blood</l>
+				<l>beneath my tender skin.</l>
+				<l>Don’t you feel lonely</l>
+				<l>teacher of the Way?</l>
+			</lg>
+            </div>
+			  
+          </body>
+      </text>
+		  
 	<facsimile>
 		<surface xml:id="f001" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>1</label>
@@ -88,6 +146,10 @@
 		<surface xml:id="f005" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>5</label>
 			<graphic mimeType="image/webp" url="assets/img/tanka5.jpg"/>
+		</surface>
+			<surface xml:id="f026" ulx="0" uly="0" lrx="5800" lry="6500">
+			<label>26</label>
+			<graphic mimeType="image/webp" url="assets/img/tanka26.jpg"/>
 		</surface>
 	</facsimile>
 
