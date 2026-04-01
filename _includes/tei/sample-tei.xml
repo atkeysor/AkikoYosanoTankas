@@ -52,7 +52,7 @@
           </body>
       </text>
 
-      <text xml:id="translation1">
+      <text xml:id="translation">
           <body>
             
             <div facs="#f001">
@@ -89,9 +89,7 @@
             </div>
 			  
           </body>
-      </text>
-	
-      <text xml:id="translation2">
+
           <body>
             
 			<div facs="#f026">
@@ -106,9 +104,7 @@
             </div>
 			  
           </body>
-      </text>
-		  
-      <text xml:id="translation3">
+
           <body>
             
 			<div facs="#f026">
