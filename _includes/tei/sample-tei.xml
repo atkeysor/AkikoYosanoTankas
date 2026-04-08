@@ -967,7 +967,7 @@
 		<surface xml:id="f076" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>76</label>
 			<graphic mimeType="image/webp" url="assets/img/tanka76.jpg"/>
-		</surface
+		</surface>
 		<surface xml:id="f077" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>77</label>
 			<graphic mimeType="image/webp" url="assets/img/tanka77.jpg"/>
