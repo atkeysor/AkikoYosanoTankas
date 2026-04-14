@@ -11246,7 +11246,7 @@
 		<surface xml:id="f176" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>176</label>
 			<graphic mimeType="image/webp" url="assets/img/tanka176.jpg"/>
-		</surface
+		</surface>
 			<surface xml:id="f177" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>177</label>
 			<graphic mimeType="image/webp" url="assets/img/tanka177.jpg"/>
@@ -11647,7 +11647,7 @@
 		<surface xml:id="f276" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>276</label>
 			<graphic mimeType="image/webp" url="assets/img/tanka276.jpg"/>
-		</surface
+		</surface>
 		<surface xml:id="f277" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>277</label>
 			<graphic mimeType="image/webp" url="assets/img/tanka277.jpg"/>
@@ -12048,7 +12048,7 @@
 		<surface xml:id="f376" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>376</label>
 			<graphic mimeType="image/webp" url="assets/img/tanka376.jpg"/>
-		</surface
+		</surface>
 		<surface xml:id="f377" ulx="0" uly="0" lrx="5800" lry="6500">
 			<label>377</label>
 			<graphic mimeType="image/webp" url="assets/img/tanka377.jpg"/>
