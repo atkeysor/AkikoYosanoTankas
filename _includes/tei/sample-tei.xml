@@ -13,7 +13,7 @@
 		</fileDesc>
 	</teiHeader>
 
-<!-- transcription: 'Romaji', translation: 'ReicholdTranslation', moretranslations: 'Add'lTranslations'-->
+<!-- transcription: 'Romaji', translation: 'ReicholdTranslation', discuss: 'Commentary'-->
 	
       <text xml:id="transcription">
           <body>
@@ -4422,11 +4422,14 @@
 
 			</lg>
             </div>
+			  
 <div facs="#f333">
 				 <pb facs="#f333" />
 	 <lg>
 <l>333</l>
-
+<span style="margin: 2px 0px 2px 0px"></span>
+			<l><b><em>Reichold and Kobayashi</b></em></l>
+		 <span style="margin: 2px 0px 2px 0px"></span>
 
 <l>moyuru kuchi ni </l>
 <l>nani wo fukuman </l>
@@ -4434,7 +4437,35 @@
 <l>hito no oyubi no </l>
 <l>chi was karehatenu </l>
 			</lg>
+			<lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>
+			<l><b><em>Hamill and Gibson</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>What can I put in</l>
+				<l>my burning mouth now the blood</l>
+				<l>from my lover’s finger—</l>
+				<l>he asked me to kiss it—</l>
+				<l>begins to dry on my lips.</l>
+				</lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>				
+				<lg>	
+		<l><b><em>Maloney and Oshiro</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>What balm can soothe</l>
+				<l>my burning lips?</l>
+				<l>“Paint them with this,” he said</l>
+				<l>blood from his little finger</l>
+				<l>now hard and dry.</l>
+			</lg>
             </div>
+
+
+
+			  
 	<div facs="#f334">
 				 <pb facs="#f334" />
 		 <lg>
@@ -5636,12 +5667,39 @@
 				 <pb facs="#f026" />
 			 <lg>
 				 	  <l>26</l>
+<span style="margin: 2px 0px 2px 0px"></span>
+			<l><b><em>Reichold and Kobayashi</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
 <l>soft skin</l>
 <l>warm with heated blood</l>
 <l>not touching it</l>
 <l>on the path of virtue</l>
 <l>aren’t you lonely?</l>
 	</lg>
+			<lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>
+			<l><b><em>Hamill and Gibson</b></em></l>
+				<span style="margin: 2px 0px 2px 0px"></span>
+				<l>Rather than trying</l>
+				<l>to touch the burning passion</l>
+				<l>pulsing beneath my soft</l>
+				<l>pale skin, you preach mortality.</l>
+				<l>Aren’t you awfully lonely?</l>
+				</lg>
+				<lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>					
+		<l><b><em>Maloney and Oshiro</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>Unable to touch</l>
+				<l>the hot tide of blood</l>
+				<l>beneath my tender skin.</l>
+				<l>Don’t you feel lonely</l>
+				<l>teacher of the Way?</l>
+			</lg>
             </div>
 			  
 <div facs="#f027">
@@ -5696,12 +5754,39 @@
 				 <pb facs="#f031" />
 			 <lg>
 				  <l>31</l>
+<span style="margin: 2px 0px 2px 0px"></span>	
+			<l><b><em>Reichold and Kobayashi</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
 <l>in spring rain</l>
 <l>dripping you came to</l>
 <l>my little house</l>
 <l>a crab apple flower</l>
 <l>beloved girl in twilight </l>
 	</lg>
+			<lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>	
+			<l><b><em>Hamill and Gibson</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>Wet with spring rain,</l>
+				<l>my lover finally comes</l>
+				<l>to my poor house</l>
+				<l>like a woman in love</l>
+				<l>under trees of pink blossoms.</l>
+				</lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>				
+				<lg>	
+		<l><b><em>Maloney and Oshiro</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>Wet with spring rain</l>
+				<l>he arrives</l>
+				<l>at her grass gate.</l>
+				<l>The crabapple blossoms are flush</l>
+				<l>with pleasure this evening.</l>
+			</lg>
             </div>
 			  
 <div facs="#f032">
@@ -5792,12 +5877,39 @@
 				 <pb facs="#f039" />
 			 <lg>
 				 <l>39</l>
+<span style="margin: 2px 0px 2px 0px"></span>	
+			<l><b><em>Reichold and Kobayashi</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
 <l>taking a bath</l>
 <l>at the bottom of a spring</l>
 <l>a lily flower</l>
 <l>of twenty summers</l>
 <l>looks beautiful</l>
 	</lg>
+			<lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>	
+			<l><b><em>Hamill and Gibson</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>Immersed in my hot</l>
+				<l>bath like a lovely lily</l>
+				<l>growing in a spring,</l>
+				<l>my twenty-year-old body—</l>
+				<l>so beautiful, so sublime.</l>
+				</lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>				
+				<lg>	
+		<l><b><em>Maloney and Oshiro</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>A lovely pale lily</l>
+				<l>bathing in a spring,</l>
+				<l>soaking in hot water;</l>
+				<l>my twenty-year-old body</l>
+				<l>lovely to my gaze.</l>
+			</lg>
             </div>
 			  
 <div facs="#f040">
@@ -6147,7 +6259,9 @@
 				 <pb facs="#f068" />
 		 <lg>
 <l>68</l>
-
+<span style="margin: 2px 0px 2px 0px"></span>
+			<l><b><em>Reichold and Kobayashi</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
 <l>covering my breasts </l>
 <l>the veil of secrets softly </l>
 <l>kicked aside </l>
@@ -6155,7 +6269,33 @@
 <l>is deep and very dark</l>
 
 			</lg>
+			<lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>
+			<l><b><em>Hamill and Gibson</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>Gently, I open</l>
+				<l>the door to eternal</l>
+				<l>mystery, the flowers</l>
+				<l>of my breasts cupped,</l>
+				<l>offered with both my hands.</l>
+				</lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>				
+				<lg>	
+		<l><b><em>Maloney and Oshiro</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>Pressing my breasts</l>
+				<l>I gently part</l>
+				<l>the veil of mystery.</l>
+				<l>Look! A flower</l>
+				<l>crimson and intense.</l>
+			</lg>
             </div>
+
+			  
 <div facs="#f069">
 				 <pb facs="#f069" />
 		 <lg>
@@ -7407,14 +7547,43 @@
 				 <pb facs="#f168" />
 		 <lg>
 <l>168</l>
-
+<span style="margin: 2px 0px 2px 0px"></span>	
+			<l><b><em>Reichold and Kobayashi</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
 <l>from a swallow’s </l>
 <l>feather is dripping </l>
 <l>spring rain </l>
 <l>shall I catch it to smooth </l>
 <l>my late-morning hair </l>
 			</lg>
+			<lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>	
+			<l><b><em>Hamill and Gibson</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>Hair in morning tangles,</l>
+				<l>mperhaps I should comb it out</l>
+				<l>with spring rainwater</l>
+				<l>as it drips from the ink-black</l>
+				<l>feathers of swallows’ wings.</l>
+				</lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>				
+				<lg>	
+		<l><b><em>Maloney and Oshiro</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>On the swallow’s wings,</l>
+				<l>drips spring rain.</l>
+				<l>Let me gather the drops </l>
+				<l>to comb through</l>
+				<l>my tangled hair this morning.</l>
+			</lg>
             </div>
+
+
+	
 <div facs="#f169">
 				 <pb facs="#f169" />
 		 <lg>
@@ -9477,7 +9646,9 @@
 				 <pb facs="#f321" />
 	 <lg>
 <l>321</l>
-
+<span style="margin: 2px 0px 2px 0px"></span>	
+			<l><b><em>Reichold and Kobayashi</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
 <l>spring is short </l>
 <l>so what remains in life </l>
 <l>that is everlasting </l>
@@ -9485,7 +9656,35 @@
 <l>my powerful breasts </l>
 
 			</lg>
+			<lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>	
+			<l><b><em>Hamill and Gibson</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>Spring quickly passes.</l>
+				<l>All the things of this world are </l>
+				<l>temporal! I cried,—</l>
+				<l>And lifted his hand to touch</l>
+				<l>my trembling, waiting breast.</l>
+				</lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>				
+				<lg>	
+		<l><b><em>Maloney and Oshiro</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>Spring so short,</l>
+				<l>in what can we</l>
+				<l>find immortality?</l>
+				<l>I let his hands fondle</l>
+				<l>my vigorous breasts.</l>
+			</lg>
             </div>
+
+
+
+			  
 <div facs="#f322">
 				 <pb facs="#f322" />
 	 <lg>
@@ -9642,14 +9841,44 @@
 				 <pb facs="#f333" />
 	 <lg>
 <l>333</l>
-
+<span style="margin: 2px 0px 2px 0px"></span>
+			<l><b><em>Reichold and Kobayashi</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
 <l>to my burning mouth </l>
 <l>what have I kept that I </l>
 <l>should apply </l>
 <l>the blood from your </l>
 <l>little finger is all dried </l>
 			</lg>
+
+			<lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>
+			<l><b><em>Hamill and Gibson</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>What can I put in</l>
+				<l>my burning mouth now the blood</l>
+				<l>from my lover’s finger—</l>
+				<l>he asked me to kiss it—</l>
+				<l>begins to dry on my lips.</l>
+				</lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>				
+				<lg>	
+		<l><b><em>Maloney and Oshiro</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>What balm can soothe</l>
+				<l>my burning lips?</l>
+				<l>“Paint them with this,” he said</l>
+				<l>blood from his little finger</l>
+				<l>now hard and dry.</l>
+			</lg>
             </div>
+
+
+	
 	<div facs="#f334">
 				 <pb facs="#f334" />
 		 <lg>
@@ -9679,14 +9908,45 @@
 				 <pb facs="#f336" />
 	 <lg>
 <l>336</l>
-
+		<span style="margin: 2px 0px 2px 0px"></span>
+<l><b><em>Reichold and Kobayashi</b></em></l>
+		 <span style="margin: 2px 0px 2px 0px"></span>
 <l>a valley of plums </l>
 <l>with a deep crimson haze </l>
 <l>at dawn </l>
 <l>the mountain is beautiful </l>
 <l>as I am beautiful </l>
 			</lg>
+
+			<lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>	
+			<l><b><em>Hamill and Gibson</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>The blossoming plum</l>
+				<l>bright pink in the morning mist</l>
+				<l>above this valley—</l>
+				<l>these mountains are beautiful,</l>
+				<l>and I am beautiful too.</l>
+				</lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>				
+				<lg>	
+		<l><b><em>Maloney and Oshiro</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>Pink morning mist</l>
+				<l>fills the valley</l>
+				<l>of blossoming plums.</l>
+				<l>Beautiful these hills</l>
+				<l>beautiful me!</l>
+			</lg>
             </div>
+
+
+
+			  
 <div facs="#f337">
 				 <pb facs="#f337" />
 	 <lg>
@@ -10014,13 +10274,39 @@
 				 <pb facs="#f362" />
 	 <lg>
 <l>362</l>
-
+<span style="margin: 2px 0px 2px 0px"></span>
+<l><b><em>Reichold and Kobayashi</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>	
 
 <l>so many sins </l>
 <l>to punish men </l>
 <l>I was born </l>
 <l>to have this fair skin </l>
 <l>and long black hair</l>
+			</lg>				
+			<lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>	
+			<l><b><em>Hamill and Gibson</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>In return for all</l>
+				<l>the sins and crimes of men,</l>
+				<l>the gods created me</l>
+				<l>with glistening long black hair</l>
+				<l>and pale, inviting skin.</l>
+				</lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>				
+				<lg>	
+		<l><b><em>Maloney and Oshiro</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>To teach lustful men</l>
+				<l>a lesson</l>
+				<l>I was born</l>
+				<l>with pure skin</l>
+				<l>and long black hair..</l>
 			</lg>
             </div>
 <div facs="#f363">
@@ -10156,14 +10442,43 @@
 				 <pb facs="#f373" />
 	 <lg>
 <l>373</l>
-
+<span style="margin: 2px 0px 2px 0px"></span>
+<l><b><em>Reichold and Kobayashi</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+		 
 <l>since you are ill </l>
 <l>I’ll wrap around your neck </l>
 <l>my slender arms</l>
 <l>to suck your mouth </l>
 <l>so dry from fever </l>
 			</lg>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>	
+
+			<lg>
+			<l><b><em>Hamill and Gibson</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>Lifting your head,</l>
+				<l>my slender arm beneath</l>
+				<l>the nape of your neck,</l>
+				<l>I want, suddenly, to suck</l>
+				<l>your feverish lips with mine.</l>
+			<l> </l>
+<span style="margin: 2px 0px 2px 0px"></span>				
+			<l>----------------------------------</l>
+<span style="margin: 2px 0px 2px 0px"></span>				
+				<lg>	
+		<l><b><em>Maloney and Oshiro</b></em></l>
+<span style="margin: 2px 0px 2px 0px"></span>
+				<l>My slender arm</l>
+				<l>lifts your head</l>
+				<l>my weary love;</l>
+				<l>bending I leave a kiss</l>
+				<l>on your feverish lips.</l>
+			</lg>
             </div>
+				
 <div facs="#f374">
 				 <pb facs="#f374" />
 	 <lg>
@@ -10504,129 +10819,19 @@
 			</lg>
             </div>	
 
-
-
 			  
      	 </body>
       </text>
 
 		<!--trying to add translations here...-->
 
-      <text xml:id="moretranslations">
+      <text xml:id="dicsuss">
 		  <body>
 			<div facs="#f026">
 				<pb facs="#f026" />
-			<lg>
-			<l><hi rend="bold">Hamill and Gibson </hi></l>
-				<l> </l>
-				<l>Rather than trying</l>
-				<l>to touch the burning passion</l>
-				<l>pulsing beneath my soft</l>
-				<l>pale skin, you preach mortality.</l>
-				<l>Aren’t you awfully lonely?</l>
-				</lg>
-			<l>-----------------</l>
-				<lg>
-		<l><hi rend="bold">Maloney and Oshiro </hi></l>
-				<l>Unable to touch</l>
-				<l>the hot tide of blood</l>
-				<l>beneath my tender skin.</l>
-				<l>Don’t you feel lonely</l>
-				<l>teacher of the Way?</l>
-			</lg>
-            </div>
-					<div facs="#f031">
-				<pb facs="#f031" />
-			<lg>
-			<l><hi rend="bold">Hamill and Gibson </hi></l>
-				<l> </l>
-				<l>Wet with spring rain,</l>
-				<l>my lover finally comes</l>
-				<l>to my poor house</l>
-				<l>like a woman in love</l>
-				<l>under trees of pink blossoms.</l>
-			<l> </l>
-			<l> -----------------</l>
-				<lg>
-		<l><hi rend="bold">Maloney and Oshiro </hi></l>
-				<l> </l>
-				<l>Wet with spring rain</l>
-				<l>he arrives</l>
-				<l>at her grass gate.</l>
-				<l>The crabapple blossoms are flush</l>
-				<l>with pleasure this evening.</l>
-			</lg>
-            </div>
-
-			  		<div facs="#f031">
-				<pb facs="#f031" />
-			<lg>
-			<l><hi rend="bold">Hamill and Gibson </hi></l>
-				<l> </l>
-				<l>Wet with spring rain,</l>
-				<l>my lover finally comes</l>
-				<l>to my poor house</l>
-				<l>like a woman in love</l>
-				<l>under trees of pink blossoms.</l>
-			<l> </l>
-			<l> -----------------</l>
-				<lg>
-		<l><hi rend="bold">Maloney and Oshiro </hi></l>
-				<l> </l>
-				<l>Wet with spring rain</l>
-				<l>he arrives</l>
-				<l>at her grass gate.</l>
-				<l>The crabapple blossoms are flush</l>
-				<l>with pleasure this evening.</l>
-			</lg>
-            </div>
-
-			  		<div facs="#f031">
-				<pb facs="#f031" />
-			<lg>
-			<l><hi rend="bold">Hamill and Gibson </hi></l>
-				<l> </l>
-				<l>Wet with spring rain,</l>
-				<l>my lover finally comes</l>
-				<l>to my poor house</l>
-				<l>like a woman in love</l>
-				<l>under trees of pink blossoms.</l>
-			<l> </l>
-			<l> -----------------</l>
-				<lg>
-		<l><hi rend="bold">Maloney and Oshiro </hi></l>
-				<l> </l>
-				<l>Wet with spring rain</l>
-				<l>he arrives</l>
-				<l>at her grass gate.</l>
-				<l>The crabapple blossoms are flush</l>
-				<l>with pleasure this evening.</l>
-			</lg>
-            </div>
-
-			  		<div facs="#f031">
-				<pb facs="#f031" />
-			<lg>
-			<l><hi rend="bold">Hamill and Gibson </hi></l>
-				<l> </l>
-				<l>Wet with spring rain,</l>
-				<l>my lover finally comes</l>
-				<l>to my poor house</l>
-				<l>like a woman in love</l>
-				<l>under trees of pink blossoms.</l>
-			<l> </l>
-			<l> -----------------</l>
-				<lg>
-		<l><hi rend="bold">Maloney and Oshiro </hi></l>
-				<l> </l>
-				<l>Wet with spring rain</l>
-				<l>he arrives</l>
-				<l>at her grass gate.</l>
-				<l>The crabapple blossoms are flush</l>
-				<l>with pleasure this evening.</l>
-			</lg>
-            </div>
-			  
+			<p> let's just test this out! if i wanted to add some commentary, what might it look like?</p>
+				<p>And if i dared to add <em>another</em> line, does this work?</p>
+			</div> 
           </body>
       </text>
 		  
