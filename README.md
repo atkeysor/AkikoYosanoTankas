@@ -2,7 +2,7 @@
 
 Selected English Translations of <em>Midaregami</em>
 
-Allia Keysor, Boston College
+By Allia Keysor, Boston College
 
 ## About
 
