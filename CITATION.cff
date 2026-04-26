@@ -1,11 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "Ælfric Online"
+title: "Akiko Yosano's 399 Tankas: Selected English Translations"
 authors:
-  - family-names: Hockema
-    given-names: Chase
-abstract: "Jekyll site for the Ælfric Online Project @ Boston College"
+  - family-names: Keysor
+    given-names: Allia
+abstract: "English Translations from Reichhold and Kobayashi (2013), Dennis Maloney and Hide Oshiro (2012), Sam Hamill and Keiko Matsui Gibson (1996)."
 version: 0.0.1
-date-released: "2024-4-9"
+date-released: "2026-5-10"
 license: "CC-BY-NC-SA-4.0"
-repository-code: "https://github.com/BCDigSchol/aelfric-online"
+repository-code: "https://github.com/atkeysor/AkikoYosanoTankas"
