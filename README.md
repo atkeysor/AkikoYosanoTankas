@@ -1,6 +1,6 @@
-# jekyll-project-template
+# Akiko Yosano's 399 Tankas
 
-Akiko Yosano's 399 Tankas: Selected English Translations of <em>Midaregami</em>
+Selected English Translations of <em>Midaregami</em>
 
 Allia Keysor, Boston College
 
