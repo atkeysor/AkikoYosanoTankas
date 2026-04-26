@@ -1,12 +1,17 @@
 # jekyll-project-template
 
-Write a tagline here!
+Akiko Yosano's 399 Tankas: Selected English Translations of <em>Midaregami</em>
 
-By Your Name, Boston College
+Allia Keysor, Boston College
 
 ## About
 
-Put your project description here!
+This project is a digital edition of Jane Reichhold's and Machiko Kobayashi's (R/K's) <em>A Girl with Tangled Hair: The 399 tanka in Midaregami</em> (2013), the first full, print version of Akiko Yosano's 399 Tanka Poems. These tankas are paired with their Romaji transliterations (recorded in R/K's print edition) and the original Japanese Kana. The aim of this project is to compare the stylistic and syntactical decisions that are made when translating Japanese poetry to English; therefore, the TEI file also contains ten selected English tankas from Sam Hamill's and Keiko Matsui Gibson's 1996 translation of Yosano's work, as well as Dennis Maloney's and Hide Oshiro's 2012 collection (citations below).
+
+<em>A Girl with Tangled Hair: The 399 Tanka in</em> Midaregami - Tangled Hair. Translated by Jane Reichhold and Machiko Kobayashi, AHA Books, 2013.
+<em>River of Stars: Selected Poems of Yosano Akiko,</em> Translated by Sam Hamill and Keiko Matsui Gibson, 1996.
+<em>Tangled Hair: Selected Tanka of Yosano Akiko,</em> Translated by Dennis Maloney and Hide Oshiro, 2012.
+ 
 
 ## Files you need to edit
 
