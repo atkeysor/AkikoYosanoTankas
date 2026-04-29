@@ -3,7 +3,7 @@ baseurl: "/AkikoYosanoTankas" # the name of your github repo
 url: "https://atkeysor.github.io" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
-title: "Akiko Yosano's 399 Tankas - Selected English Translations"
+title: "Akiko Yosano's Tankas"
 description: meta data @ BC Schol
 
 tei_xml: "sample-tei.xml" # the name of your TEI XML file in the _data directory (e.g. "my-xml-file.xml")
