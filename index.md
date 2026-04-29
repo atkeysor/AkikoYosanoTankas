@@ -4,7 +4,11 @@ title: Home
 show-title: false
 ---
 
-This is your home page. You should put the most important information about your project here. Have at least one landing image. Make sure to including information about
+In 2013, Jane Reichhold and Machiko Kobayashi published an English translation of <em>Midaregami</em> (1901), a collection of 399 Japanese tankas by poet Akiko Yosano. 
+
+This Digital Humanities project attempts to preserve Yosano's legacy by digitizing all 399 of her <em>Midaregami</em> tankas while also exploring the complexity of translation studies as a field; alongside the Reichhold/Kobayashi collection, this project incorporates ten translations from Dennis Maloney's and Hide Oshiro's <em>Tangled Hair: Selected Tanka of Yosano Akiko</em>, as well as ten from Sam Hamill's and Keiko Matsui Gibson's <em>River of Stars: Selected Poems of Yosano Akiko</em>. 
+
+As a student in Boston College's MA in English program, I also believe that it is greatly important to extend translation conversations to AI and Large Language Models (LLMs), as these tools are becoming increasingly prevalent in academia, professional spaces, and online discourse. 
 
 1. The project & general background
 2. Who you are
@@ -19,7 +23,7 @@ Below are a couple of ways you might include images in your site. The simplest i
 <p align="center">
     <img src="assets/img/yosano2.jpg" />
 </p>
-![This is the alt text that will appear on mouseover](assets/img/bcds-logo.webp)
+<!-- ![This is the alt text that will appear on mouseover](assets/img/bcds-logo.webp)-->
 
 ---
 
