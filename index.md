@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Akiko Yosano's 399 Tankas - Selected English Translations
+title: Home
 show-title: false
 ---
 
@@ -17,7 +17,7 @@ Consult the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) f
 
 Below are a couple of ways you might include images in your site. The simplest is to use Markdown's image method. Use a !, then put the alt text you want inside of square brackets, and the link inside of parentheses.
 <p align="center">
-    <img src="assets/img/yosano1.jpg" />
+    <img src="assets/img/yosano2.jpg" />
 </p>
 ![This is the alt text that will appear on mouseover](assets/img/bcds-logo.webp)
 
