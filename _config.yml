@@ -1,10 +1,10 @@
 # change the followings to match your Github username and repo name
 baseurl: "/AkikoYosanoTankas" # the name of your github repo
-url: "https://BCDigSchol.github.io" # the url of your github pages (change BCDigSchol to your username)
+url: "https://atkeysor.github.io/AkikoYosanoTankas/" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
-title: "Your Project Name"
-description: Your Project Description @ Boston College
+title: "Akiko Yosano's 399 Tankas: Selected English Translations"
+description: This project is a digital edition of Jane Reichhold's and Machiko Kobayashi's (R/K's) A Girl with Tangled Hair: The 399 tanka in Midaregami (2013), the first full, print version of Akiko Yosano's 399 Tanka Poems. These tankas are paired with their Romaji transliterations (recorded in R/K's print edition) and the original Japanese Kana. The aim of this project is to compare the stylistic and syntactical decisions that are made when translating Japanese poetry to English; therefore, the TEI file also contains ten selected English tankas from Sam Hamill's and Keiko Matsui Gibson's 1996 translation of Yosano's work, as well as Dennis Maloney's and Hide Oshiro's 2012 collection.
 
 tei_xml: "sample-tei.xml" # the name of your TEI XML file in the _data directory (e.g. "my-xml-file.xml")
 
@@ -31,11 +31,11 @@ nav-menu:
     link: bibliography
 
 # sets whether a search bar appears on the site header
-search-bar: false
+search-bar: true
 
 hide-footer: false # set to true to hide the footer
 footer-message: Put Your Footer Message Here | CC BY-NC License
-footer-submessage:  By Your Name, with the Digital Scholarship Group, Boston College
+footer-submessage:  Allia Keysor, with the Digital Scholarship Group, Boston College
 footer-submessage-link: https://ds.bc.edu
 
 # google-analytics: // if you want to use Google analytics, include your ID here
