@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Akiko Yosano's 399 Tankas: Selected English Translations
+title: Akiko Yosano's 399 Tankas - Selected English Translations
 show-title: false
 ---
 
