@@ -16,7 +16,7 @@ Born in 1878, near Ōsaka, Japan, Yosano Akiko was a prolific writer known for h
 Akiko’s most notable work, <em>Midaregami (Tangled Hair)</em>, is often credited as one of the most influential publications in Japanese twentieth-century literature. Despite its popularity in Japanese literature studies, the Midaregami only represents a small portion of Akiko’s work: she, for instance, wrote over 50,000 poems (publishing twenty-one poetry collections), produced two translations of <em>The Tale of Genji</em> into modern Japanese, and drafted a variety of essays and social and political criticism.
 
 <p align="center">
-<em>“My poems are my diary”</em> - Yosano Akiko to her eldest son.(FIREBIRD 2).
+<em>“My poems are my diary”</em> - Yosano Akiko to her eldest son. (FIREBIRD 2).
 </p>
 
 <p align="center">
