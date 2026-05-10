@@ -7,6 +7,11 @@ show-title: false
 In 2013, Jane Reichhold and Machiko Kobayashi published an English translation of <em>Midaregami</em> (1901), a collection of 399 Japanese tankas by poet Akiko Yosano. 
 
 <p align="center">
+    <l><b>Who was Akiko Yosano?</b><l/>
+</p>
+
+
+<p align="center">
     <img src="assets/img/yosano2.jpg" />
 </p>
 
