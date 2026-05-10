@@ -8,23 +8,23 @@ show-title: false
 </p>
 
 Born in 1878, near Ōsaka, Japan, Yosano Akiko was a prolific writer known for her sexual and provocative tanka poems. Akiko, in pursuit of literary success, moved to Tokyo as a young adult and later married Yosano Tekkan, a fellow writer and founder of the magazine <em>Myōjō</em>. Akiko was also associated with <em>Seitō</em>, the first Japanese feminist literary magazine, and played a crucial role “in the establishment of Bunka Gakuin, a pioneering, arts-oriented girls’ private school in Japan.” (FIREBIRD 1-2)
-
+------
 
 <p align="center">
     <img src="assets/img/yosano2.jpg" />
 </p>
 
-Akiko’s most notable work, <em>Midaregami (Tangled Hair)</em>, is often credited as one of the most influential publications in Japanese twentieth-century literature. Despite its popularity in Japanese literature studies, the Midaregami only represents a small portion of Akiko’s work: she, for instance, wrote over 50,000 poems (publishing twenty-one poetry collections), produced two translations of <em>The Tale of Genji</em> into modern Japanese, and drafted a variety of essays and social and political criticism.
-
-<p align="center">
-<em>“My poems are my diary”</em> - Yosano Akiko to her eldest son. (FIREBIRD 2).
-</p>
+Akiko’s most notable work, <em>Midaregami (Tangled Hair)</em>, is often credited as one of the most influential publications in Japanese twentieth-century literature. Despite its popularity in Japanese literature studies, the <em>Midaregami</em> only represents a small portion of Akiko’s work. She, for instance, wrote over 50,000 poems (publishing twenty-one poetry collections), produced two translations of <em>The Tale of Genji</em> into modern Japanese, and drafted a variety of essays and social and political criticism.
 
 <p align="center">
     <l><b>Why the <em>Midaregami</em>?</b></l>
 </p>
 
 Although Akiko would eventually express her discontent with <em>Midaregami</em>, this 1901 publication revitalized tanka poetry (characterized by a 5-7-5-7-7 syllabic structure) and its “rich and suggestive imagery” that sparked significant discourse within the literary community (FIREBIRD 6). According to (JONES), one critic of her <em>Midaregami</em> went so far as to claim that these Akiko’s tankas were “immoral words that belong in the mouths of whores and streetwalkers” (376). By our modern standards, Akiko’s gendered, sexual word choice is hardly provocative, but this collection of tankas challenged the norms of Japanese literature and women writers’ contributions to the field.
+
+<p align="center">
+<em>“My poems are my diary”</em> - Yosano Akiko to her eldest son. (FIREBIRD 2).
+</p>
 
 A handful of translations of Akiko’s <em>Midaregami</em> exist already, but the edition selected for this project (trans. Jane Reichhold and Machiko Kobayashi, 2013) is the first English translation of <em>all</em>399 tankas included in the original publication. This version, entitled <em>A Girl with Tangled Hair</em>, offers romantic, digestible interpretations of the Japanese tankas, differing significantly from the translations that came before it: including, but not limited to, <em>River of Stars</em> (trans. Sam Hamill and Keiko Matsui Gibson, 1997) and <em>Tangled hair: selected Tanka</em> (trans. Dennis Maloney and Hide Oshiro, 2012).
 
