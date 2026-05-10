@@ -7,7 +7,11 @@ show-title: false
     <l><b>Who was Yosano Akiko?</b></l>
 </p>
 
+---
+
 Born in 1878, near Ōsaka, Japan, Yosano Akiko was a prolific writer known for her sexual and provocative tanka poems. Akiko, in pursuit of literary success, moved to Tokyo as a young adult and later married Yosano Tekkan, a fellow writer and founder of the magazine <em>Myōjō</em>. Akiko was also associated with <em>Seitō</em>, the first Japanese feminist literary magazine, and played a crucial role “in the establishment of _Bunka Gakuin_, a pioneering, arts-oriented girls’ private school in Japan” (FIREBIRD 1-2).
+
+---
 
 <p align="center">
     <img src="assets/img/yosano2.jpg" />
@@ -16,7 +20,11 @@ Born in 1878, near Ōsaka, Japan, Yosano Akiko was a prolific writer known for h
     <l>CAPTION</b></l>
 </p>
 
+---
+
 Akiko’s most notable work, <em>Midaregami (Tangled Hair)</em>, is often credited as one of the most influential publications in Japanese twentieth-century literature. Despite its popularity in Japanese literature studies, the <em>Midaregami</em> only represents a small portion of Akiko’s work. She, for instance, wrote over 50,000 poems (publishing twenty-one poetry collections), produced two translations of <em>The Tale of Genji</em> into modern Japanese, and drafted a variety of essays and social and political criticism.
+
+---
 
 <p align="center">
     <l><b>Why the <em>Midaregami</em>?</b></l>
