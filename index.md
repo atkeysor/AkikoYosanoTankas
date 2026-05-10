@@ -3,6 +3,9 @@ layout: page
 title: Home
 show-title: false
 ---
+<p align="center">
+    <l><b>Who was Yosano Akiko?</b></l>
+</p>
 
 Born in 1878, near Ōsaka, Japan, Yosano Akiko was a prolific writer known for her sexual and provocative tanka poems. Akiko, in pursuit of literary success, moved to Tokyo as a young adult and later married Yosano Tekkan, a fellow writer and founder of the magazine <em>Myōjō</em>. Akiko was also associated with <em>Seitō</em>, the first Japanese feminist literary magazine, and played a crucial role “in the establishment of Bunka Gakuin, a pioneering, arts-oriented girls’ private school in Japan.” (FIREBIRD 1-2)
 
@@ -24,15 +27,15 @@ Although Akiko would eventually express her discontent with <em>Midaregami</em>,
 
 A handful of translations of Akiko’s <em>Midaregami</em> exist already, but the edition selected for this project (trans. Jane Reichhold and Machiko Kobayashi, 2013) is the first English translation of <em>all</em>399 tankas included in the original publication. This version, entitled <em>A Girl with Tangled Hair</em>, offers romantic, digestible interpretations of the Japanese tankas, differing significantly from the translations that came before it: including, but not limited to, <em>River of Stars</em> (trans. Sam Hamill and Keiko Matsui Gibson, 1997) and <em>Tangled hair: selected Tanka</em> (trans. Dennis Maloney and Hide Oshiro, 2012).
 
-This TEI project, powered by GitHub and EditionCrafter, aims to digitize <em>A Girl with Tangled Hair</em>, allowing scholars increased access to Akiko’s most famous work. Under the “Editions” tab, this webpage offers the Japanese kana (labeled as “Facsimile”), Romaji transliteration, and Reichhold and Kobayashi translation of Akiko’s 399 tankas published in her <em>Midaregami</em>. 
+This TEI project, powered by GitHub and EditionCrafter, attempts to preserve Yosano's legacy by digitizing all 399 of her <em>Midaregami</em> tankas while also exploring the complexity of translation studies as a field; alongside the Reichhold/Kobayashi collection, this project incorporates ten translations from Dennis Maloney's and Hide Oshiro's <em>Tangled Hair: Selected Tanka of Yosano Akiko</em>, as well as ten from Sam Hamill's and Keiko Matsui Gibson's <em>River of Stars: Selected Poems of Yosano Akiko</em>. Under the “Editions” tab, this webpage offers the Japanese kana (labeled as “Facsimile”), Romaji transliteration, and Reichhold and Kobayashi translation of Akiko’s 399 tankas published in her <em>Midaregami</em>. 
 
 <p align="center">
-    <l><b>Translation Differences and AI</em>?</b></l>
+    <l><b>Translation Differences and AI</b></l>
 </p>
 
-Alongside the digitization goal, this Digital Humanities project also aims to shed light on translation differences between Reichhold and Kobayashi’s text with two the aforementioned other translations for use in writing instruction. With the rise of AI/Large Language Models, students increasingly turn to automated translation services, prioritizing efficiency over stylistic, individual decisions; therefore, the “Translations” tab of 10 of the 399 tankas present all three translations back-to-back, as well as translations provided by ChatGPT and Google Translate. These tankas have an additional tab for a closer analysis of the differences between each translation.
+In addition to the digitization goal, this  aims to shed light on translation differences between Reichhold and Kobayashi’s text with two the aforementioned other translations for use in writing instruction. With the rise of AI/Large Language Models, students increasingly turn to automated translation services, prioritizing efficiency over stylistic, individual decisions; therefore, the “Translations” tab of 10 of the 399 tankas present all three translations back-to-back, as well as translations provided by ChatGPT and Google Translate. These tankas have an additional tab for a closer analysis of the differences between each translation.
 
-This Digital Humanities project attempts to preserve Yosano's legacy by digitizing all 399 of her <em>Midaregami</em> tankas while also exploring the complexity of translation studies as a field; alongside the Reichhold/Kobayashi collection, this project incorporates ten translations from Dennis Maloney's and Hide Oshiro's <em>Tangled Hair: Selected Tanka of Yosano Akiko</em>, as well as ten from Sam Hamill's and Keiko Matsui Gibson's <em>River of Stars: Selected Poems of Yosano Akiko</em>. 
+This Digital Humanities project 
 
 As a student in Boston College's MA in English program, I also believe that it is greatly important to extend translation conversations to AI and Large Language Models (LLMs), as these tools are becoming increasingly prevalent in academia, professional spaces, and online discourse. 
 
