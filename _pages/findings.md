@@ -4,6 +4,14 @@ title: Findings
 permalink: findings
 show-title: true
 ---
+
+<p align="center">
+    <img src="assets/img/akikocovers.jpg" />
+</p>
+<p align="center">
+    <l>The three translations for this project.</b></l>
+</p>
+
 ## _A Girl with Tangled Hair_ - Reichhold & Kobayashi
 
 In the process of encoding and analyzing Akiko’s 399 tankas, the differences between each English translation became very apparent. The Reichhold and Kobayashi edition—the basis for this project—offers a poetic yet simplistic set of tankas. These translations typically use enjambed lines, only including punctuation for the purpose of asking questions periodically. The poems are written in lowercase text (aside from proper nouns), and many lines of the tanka can exist independent from the rest of the stanza—a technique often found in haiku poetry. In my own reading, I found this version the most romantic, as each tanka has a sort of wistful quality about it.
