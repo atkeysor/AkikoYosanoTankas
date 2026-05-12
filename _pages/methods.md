@@ -8,23 +8,39 @@ show-title: true
 
 While Akiko is one of the most talented, versatile writers of the twentieth century,  her work remains widely underrepresented in literary studies. While the _Midaregami_ may be Akiko’s most _famous_ work, there is very limited scholarship about her life (her family dynamics, literary influences, etc.), this collection of 399 tankas, or her other publications. Poetry.org and The Japanese National Diet, for example, both have webpages dedicated to Akiko, but these are simply snapshots of her work and do not include excerpts for readers to engage with.
 
+---
+
 ## What _Is_ Available?
 
 _Embracing the Firebird_ is cited as one of the most thorough analyses of Akiko’s life before and
 during the release of her _Midaregami_, but few projects cover Akiko’s tremendous breadth of writing, genres, and subjects. _River of Stars_ and _Tangled Hair: selected Tankas_ are print versions of the _Midaregami_ that are also available online (through Internet Archive and other services); however, a combination of these two sources still limits a project's scope to only a handful of Akiko’s early tankas. The rest, may provde inaccessible due to institutional restrictioms, lack of availability, or print-only edution. This TEI project therefore attempts to rectify this issue by digitizing not only the Reichhold and Kobayashi translation but also the Japanese kana. In doing so, we may be able to welcome other scholars (new and professional) to engage with Akiko’s poems, feminist and translation theories, and other versions of the Midaregami.
 
-## Encoding Process
-
 <p align="center">
-    <img src="assets/img/akikomethods.jpg" />
+    <img src="assets/img/akikoeditions.jpg" />
 </p>
 <p align="center">
     <l>CAPTION</b></l>
 </p>
 
+---
 
-## Potential Expansion
+## Encoding Process
 
-Due to the limitations of a single semester course, I have neither the time nor the resources to digitize all of Akiko’s tankas or other writings, but perhaps this repository will serve as a push in that direction. It would be interesting to see increased scholarship around Akiko’s writing and other Japanese women writers: What texts by Japanese women writers have been labeled revolutionary, and why? Who has access to these writings, and in what format do they currently exist?
+Behind the scenes of the final website, I, with the help of an undergraduate student, copied every line of _A Girl with Tangled Hair_ into a document so that each tanka, its kana, and the Romaji equivalent could be put into plain text for TEI encoding. This required a word-by-word reading and transcription of the 399 tankas. For a large-scale project, scanning tools like OCR would likely be more efficient, but our two copies of the Reichhold and Kobayashi edition were repeatedly recording incorrect characters, so that process was abandoned in favor of our direct labor. As a result, I did come to understand Akiko's tankas and their various translations to a much greater extent than I would have otherwise, therefore highlighting a benefit of TEI: if done properly, encoding a text truly requires that we interact with it on a thoughtful, intentional level. 
+
+After transcribing the poems, the next step was to create a series of 399 images (via Canva) that depicted the Japanese kana of the respective tanka, as this is the material that would later become the "Facsimile" tab in EditionCrafter. This was another time-consuming process, but it proved important for the overall visuals of the project---if the aim is to encourage other scholars to interact with Akiko's work, a digital copy must both be readily available _and_ public facing, primarily for navigation and comprehensibility.
+
+<p align="center">
+    <img src="assets/img/akikomethods.jpg" />
+</p>
+<p align="center">
+    <l>A plain text example (left); An encoding sample (right).</b></l>
+</p>
+
+And finally, it was time to **encode**. This stage of the project was by far the most arduous, as TEI and EditionCrafter---a container not usually embedded within GitHub pages---do not necessarily go hand-in-hand. Certain elements of the Reichhold and Kobayashi text were lost or challenging to represent. As opposed to italicizing a text using the surrounding "<em> [example word] </em>" (emphasis) tags, I manually signal to users that a word is italicized by simply wrapping it in slashes ("/ [example word] /"). This encoding issue also impacted my ability to leave marginal comments on the tankas, requiring that I create a separate "Discussion" tab for each poem that I intended to analyze. Despite the challenges, TEI, EditionCrafter, and GitHub proved to be great tools for this project.
+
+## Accessibility & Potential Expansion
+
+Due to the limitations of a single semester course, I have neither the time nor the resources to digitize all of Akiko’s tankas or other writings, but perhaps this repository will serve as a push in that direction. It would be interesting to see increased scholarship around Akiko’s writing and other Japanese women writers: _What texts by Japanese women writers have been labeled revolutionary, and why? Who has access to these writings, and in what format do they currently exist?_
 
 Digitization does not solve accessibility issues in of itself, but public-facing TEI projects do make texts available to wider audiences, allowing us the opportunity to access the base material and some commentary while also providing space for individual interpretations of Akiko’s work.
