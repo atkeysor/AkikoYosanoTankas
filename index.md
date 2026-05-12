@@ -3,13 +3,17 @@ layout: page
 title: Home
 show-title: false
 ---
-<div style="text-align: center;">
-  <h1>Main Title</h1>
-  <h3>Sub-header</h3>
-</div>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+
+<p align="center">
+    # Who was Yosano Akiko?
+</p>
 
 # Who was Yosano Akiko?
-<h2 style="text-align: center;">The Revitalization of the Tanka</h2>
 
 ## The Revitalization of the Tanka
 
