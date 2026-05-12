@@ -16,7 +16,7 @@ Despite its relative popularity, the <em>Midaregami</em> only represents a small
     <img src="assets/img/yosano2.jpg" />
 </p>
 <p align="center">
-    <l><em>Yosano Akiko</em>. National Diet Library, Japan</b></l>
+    <l> <em> Yosano Akiko </em>. National Diet Library, Japan </l>
 </p>
 
 ---
@@ -27,7 +27,7 @@ This TEI project, powered by GitHub and EditionCrafter, attempts **to preserve Y
 ---
 
 <p align="center">
-    <b><em>“My poems are my diary”</em> - Yosano Akiko(FIREBIRD 2).</b>
+    <b> <em>“My poems are my diary”</em> - Yosano Akiko(FIREBIRD 2). </b>
 </p>
 
 ---
@@ -43,7 +43,7 @@ A handful of translations of Akiko’s <em>Midaregami</em> exist already, but th
     <img src="assets/img/yosano1.jpg" />
 </p>
 <p align="center">
-    <l><em>Yosano Akiko</em>em>. National Diet Library, Japan</b></l>
+    <l> <em> Yosano Akiko </em>. National Diet Library, Japan </l>
 </p>
 
 ---
