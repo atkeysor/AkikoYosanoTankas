@@ -6,7 +6,7 @@ show-title: false
 
 # Yosano Akiko - A Poet, Author, & Social Reformer
 
-Yosano Akiko, born near Ōsaka, Japan was a prolific writer known for her sexual and provocative tanka poems. Akiko’s most notable work, <em>Midaregami (Tangled Hair)</em>, is often credited as one of the most influential publications in Japanese twentieth-century literature. Despite its popularity in Japanese literature studies, the <em>Midaregami</em> only represents a small portion of her work. Over the course of her life, Akiko wrote over 50,000 poems (publishing twenty-one poetry collections), produced two translations of <em>The Tale of Genji</em> into modern Japanese, and drafted a variety of essays and social and political criticism.
+Yosano Akiko---born near Ōsaka, Japan in 1878---was a prolific writer known for her sexual and provocative tanka poems. Akiko’s most notable work, <em>Midaregami (Tangled Hair)</em>, is often credited as one of the most influential publications in Japanese twentieth-century literature. Despite its popularity in Japanese literature studies, the <em>Midaregami</em> only represents a small portion of her work. Over the course of her life, Akiko wrote over 50,000 poems (publishing twenty-one poetry collections), produced two translations of <em>The Tale of Genji</em> into modern Japanese, and drafted a variety of essays and social and political criticism.
 
 ---
 
