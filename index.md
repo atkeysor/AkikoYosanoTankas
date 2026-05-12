@@ -14,7 +14,7 @@ Yosano Akiko, born near Ōsaka, Japan was a prolific writer known for her sexual
     <img src="assets/img/yosano2.jpg" />
 </p>
 <p align="center">
-    <l>Yosano Akiko. National Diet Library, Japan</b></l>
+    <l>_Yosano Akiko_. National Diet Library, Japan</b></l>
 </p>
 
 ---
@@ -45,6 +45,6 @@ In addition to the digitization goal, this  aims to shed light on translation di
     <img src="assets/img/yosano1.jpg" />
 </p>
 <p align="center">
-    <l>Yosano Akiko. National Diet Library, Japan</b></l>
+    <l>_Yosano Akiko_. National Diet Library, Japan</b></l>
 </p>
 
