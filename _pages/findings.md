@@ -28,7 +28,7 @@ This edition exists in between the two aforementioned translations, utilizing wo
 
 ---
 
-# ChatGPT & Google Translate
+## ChatGPT & Google Translate
 
 As I shifted attention to the ChatGPT versions, I noticed that these tankas retained some elements of the standard translations, but the authenticity was lost. To curate responses, I asked ChatGPT to “translate [these] ten tankas into English while respecting the style, structure, and artistry of the original poems.” In each of the resulting tankas, ChatGPT tried to adhere to a rigid syllable count (sometimes using 6-6-6-6-6), introduced a slew of em dashes in every translation, and selected words that were too literal or unnatural for the theme of the tanka. The translations could therefore provide a starting point for users interested in translation studies who lack the time or resources to more closely engage Akiko’s work, but ChatGPT’s edition leaves much to be desired. It loses the subjective, human quality: the voice that makes traditional translations special in their own right.
 
