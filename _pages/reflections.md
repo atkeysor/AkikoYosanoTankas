@@ -11,7 +11,7 @@ As a student in Boston College's MA in English program, I believe that it’s in
 
 In addition to digitizing more translations of the Midaregami, I would digitize the work of other Japanese women writers, perhaps putting these versions into a larger database dedicated to twentieth century Japanese literature. It was difficult to find relevant sources for background information about Akiko, and I believe that a larger, more sophisticated container for these writings would improve scholars’ ability to analyze women writers of this era.
 
-—--
+---
 
 If this project were expanded, I believe that it would also be important to learn more about EditionCrafter’s style and formatting restrictions when pushed through GitHub pages, as some options—such as italicization or a dual-panel display—were difficult to incorporate into this project. With more time, this could improve the overall navigation of the edition.
 
