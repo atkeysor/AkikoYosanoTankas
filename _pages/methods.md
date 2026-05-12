@@ -15,11 +15,13 @@ While Akiko is one of the most talented, versatile writers of the twentieth cent
 _Embracing the Firebird_ is cited as one of the most thorough analyses of Akiko’s life before and
 during the release of her _Midaregami_, but few projects cover Akiko’s tremendous breadth of writing, genres, and subjects. _River of Stars_ and _Tangled Hair: selected Tankas_ are print versions of the _Midaregami_ that are also available online (through Internet Archive and other services); however, a combination of these two sources still limits a project's scope to only a handful of Akiko’s early tankas. The rest, may provde inaccessible due to institutional restrictioms, lack of availability, or print-only edution. This TEI project therefore attempts to rectify this issue by digitizing not only the Reichhold and Kobayashi translation but also the Japanese kana. In doing so, we may be able to welcome other scholars (new and professional) to engage with Akiko’s poems, feminist and translation theories, and other versions of the Midaregami.
 
+---
+
 <p align="center">
     <img src="assets/img/akikoeditions.jpg" />
 </p>
 <p align="center">
-    <l>CAPTION</b></l>
+    <l>Sample translations through EditionCrafter</l>
 </p>
 
 ---
@@ -30,12 +32,16 @@ Behind the scenes of the final website, I, with the help of an undergraduate stu
 
 After transcribing the poems, the next step was to create a series of 399 images (via Canva) that depicted the Japanese kana of the respective tanka, as this is the material that would later become the "Facsimile" tab in EditionCrafter. This was another time-consuming process, but it proved important for the overall visuals of the project---if the aim is to encourage other scholars to interact with Akiko's work, a digital copy must both be readily available _and_ public facing, primarily for navigation and comprehensibility.
 
+---
+
 <p align="center">
     <img src="assets/img/akikomethods.jpg" />
 </p>
 <p align="center">
-    <l>A plain text example (left); An encoding sample (right).</b></l>
+    <l>A plain text example (left); An encoding sample (right).</l>
 </p>
+
+---
 
 And finally, it was time to **encode**. This stage of the project was by far the most arduous, as TEI and EditionCrafter---a container not usually embedded within GitHub pages---do not necessarily go hand-in-hand. Certain elements of the Reichhold and Kobayashi text were lost or challenging to represent. As opposed to italicizing a text using the surrounding "<em> [example word] </em>" (emphasis) tags, I manually signal to users that a word is italicized by simply wrapping it in slashes ("/ [example word] /"). This encoding issue also impacted my ability to leave marginal comments on the tankas, requiring that I create a separate "Discussion" tab for each poem that I intended to analyze. Despite the challenges, TEI, EditionCrafter, and GitHub proved to be great tools for this project.
 
