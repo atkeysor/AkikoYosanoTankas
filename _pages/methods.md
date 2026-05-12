@@ -15,6 +15,12 @@ during the release of her _Midaregami_, but few projects cover Akiko’s tremend
 
 ## Encoding Process
 
+<p align="center">
+    <img src="assets/img/akikomethods.jpg" />
+</p>
+<p align="center">
+    <l>CAPTION</b></l>
+</p>
 
 
 ## Potential Expansion
