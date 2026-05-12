@@ -3,11 +3,10 @@ layout: page
 title: Home
 show-title: false
 ---
-<style>
-  h1 {
-    text-align: center;
-  }
-</style>
+<div style="text-align: center;">
+  <h1>Main Title</h1>
+  <h3>Sub-header</h3>
+</div>
 
 # Who was Yosano Akiko?
 
