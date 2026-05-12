@@ -9,7 +9,7 @@ show-title: true
     <img src="assets/img/akikocovers.jpg" />
 </p>
 <p align="center">
-    <l>The three translations for this project.</b></l>
+    <l>Cover art of three translations for this project.</l>
 </p>
 
 ---
