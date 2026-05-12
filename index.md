@@ -3,6 +3,7 @@ layout: page
 title: Home
 show-title: false
 ---
+# H1 Who was Yosano Akiko?
 <p align="center">
     <l><b>Who was Yosano Akiko?</b></l>
 </p>
