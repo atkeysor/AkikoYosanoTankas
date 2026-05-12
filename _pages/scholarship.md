@@ -4,12 +4,12 @@ title: Previous Scholarship
 permalink: scholarship
 show-title: true
 ---
+# Yosano Akiko's Life: A Short Summary
 
-Here, you might discuss what previous scholarship has been written about your topic.
+In pursuit of literary success, Akiko moved to Tokyo as a young adult, focusing on her craft and her career. While writing in the city, Akiko met Yosano Tekkan, a fellow writer and founder of the magazine <em>Myōjō</em>. Together, the two had thirteen children, eleven of whom survived into adulthood. The couple had a successful marriage until Tekkan's death in 1935, writing alongside each other and producing a multitude of publications. Akiko was also associated with <em>Seitō</em>, the first Japanese feminist literary magazine, and played a crucial role “in the establishment of _Bunka Gakuin_, a pioneering, arts-oriented girls’ private school in Japan” (FIREBIRD 1-2). [^1]
 
-You should make sure to investigate..
+Tekkan was a man "known for his difficult and domineering personality," a sentiment contradicting Akiko's writing about women's independence, (JONES), Akik
 
-1. Whatever important *traditional* (non-digital) work has been done on your subject. Because you will want to consider how your project impacts scholarship.
-2. Whatever important *digital* work has been done. If you are doing a digital text analysis of Dickens... has Dickens ever been analyzed using text analysis before? What about other authors of his era? Look for other existing digital work that is relevant, even indirectly.
 
-For an example of a scholarship page, [see here](https://confederate-memorials-project.readthedocs.io/en/latest/digital-methods-and-historical-scholarship/).
+
+[^1]: FIREBIRD 1-2.
