@@ -4,16 +4,17 @@ title: Findings
 permalink: findings
 show-title: true
 ---
-## A Girl with Tangled Hair - Reichhold & Kobayashi
+## _A Girl with Tangled Hair_ - Reichhold & Kobayashi
 
 In the process of encoding and analyzing Akiko’s 399 tankas, the differences between each English translation became very apparent. The Reichhold and Kobayashi edition—the basis for this project—offers a poetic yet simplistic set of tankas. These translations typically use enjambed lines, only including punctuation for the purpose of asking questions periodically. The poems are written in lowercase text (aside from proper nouns), and many lines of the tanka can exist independent from the rest of the stanza—a technique often found in haiku poetry. In my own reading, I found this version the most romantic, as each tanka has a sort of wistful quality about it.
-## Tangled Hair: selected Tankas - Hamill and Gibson
+
+## _River of Stars_ - Hamill and Gibson
 
 As we move to the Hamill and Gibson edition, I concluded that these tankas were the most “powerful.” The language is sharp, intense, and poetic, reminiscent of Robert Fagles’ translation of Homer’s Odyssey. This edition feels very familiar to other translations of Japanese writing to English, but it does leave some of the tankas feeling unnecessarily curt. These tankas, out of the three published versions, feel like the furthest departure from the Reichhold and Kobayashi translations.
 
-## River of Stars - Maloney and Oshiro
+## _Tangled Hair: selected Tankas_ - Maloney and Oshiro
 
-This edition exists in between the two aforementioned translations, utilizing words with soft connotations and consistent punctuation. These tankas also incorporate the “independent line” idea found in the Reichhold and Kobayashi text, allowing many lines to feel free and unbound to their position within the stanza. Although I found A Girl with Tangled Hair the most helpful for a broad understanding of Akiko’s poetry, this translation feels the most similar to how English poems are written. Reading through all of these versions are pleasurable experiences, and this translation leans in a bit to the reader experience.
+This edition exists in between the two aforementioned translations, utilizing words with soft connotations and consistent punctuation. These tankas also incorporate the “independent line” idea found in the Reichhold and Kobayashi text, allowing many lines to feel free and unbound to their position within the stanza. Although I found A Girl with Tangled Hair the most helpful for a broad understanding of Akiko’s poetry, this translation feels the most similar to how English poems are traditionally produced. Reading through all of these versions are pleasurable experiences, and this translation leans in a bit to the reader experience.
 
 ---
 
