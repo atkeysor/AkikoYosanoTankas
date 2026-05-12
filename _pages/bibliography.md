@@ -18,6 +18,8 @@ show-title: true
 
 8. “Yosano Akiko." Portraits of Modern Japanese Historical Figures, National Diet Library, Japan. <em>Portraits of Modern Japanese Historical Figures</em>, https://www.ndl.go.jp/portrait/e/datas/347. Accessed 18 Mar. 2026.
 
+---
+
 ## Acknowledgements
 
 I would like to extend a sincere thank you to the Boston College Digital Scholarship Team for all of their guidance and support this semester. Specifically, I want to thank Ashlyn Stewart and Dave Thomas for helping me refine my ideas, organize them in a digestible way, and transfer them all to GitHub for this (pretty cool) website. I'd also like to express my appreciation for Jolin Li, an undergraduate student at Boston College who helped _tremendously_ with the transcription process. A successful project is often a collaborative effort!
