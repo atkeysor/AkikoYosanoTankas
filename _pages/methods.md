@@ -39,6 +39,8 @@ After transcribing the poems, the next step was to create a series of 399 images
 
 And finally, it was time to **encode**. This stage of the project was by far the most arduous, as TEI and EditionCrafter---a container not usually embedded within GitHub pages---do not necessarily go hand-in-hand. Certain elements of the Reichhold and Kobayashi text were lost or challenging to represent. As opposed to italicizing a text using the surrounding "<em> [example word] </em>" (emphasis) tags, I manually signal to users that a word is italicized by simply wrapping it in slashes ("/ [example word] /"). This encoding issue also impacted my ability to leave marginal comments on the tankas, requiring that I create a separate "Discussion" tab for each poem that I intended to analyze. Despite the challenges, TEI, EditionCrafter, and GitHub proved to be great tools for this project.
 
+---
+
 ## Accessibility & Potential Expansion
 
 Due to the limitations of a single semester course, I have neither the time nor the resources to digitize all of Akiko’s tankas or other writings, but perhaps this repository will serve as a push in that direction. It would be interesting to see increased scholarship around Akiko’s writing and other Japanese women writers: _What texts by Japanese women writers have been labeled revolutionary, and why? Who has access to these writings, and in what format do they currently exist?_
