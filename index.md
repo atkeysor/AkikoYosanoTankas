@@ -3,6 +3,12 @@ layout: page
 title: Home
 show-title: false
 ---
+<style>
+  h1 {
+    text-align: center;
+  }
+</style>
+
 # Who was Yosano Akiko?
 
 Born in 1878, near Ōsaka, Japan, Yosano Akiko was a prolific writer known for her sexual and provocative tanka poems. Akiko, in pursuit of literary success, moved to Tokyo as a young adult and later married Yosano Tekkan, a fellow writer and founder of the magazine <em>Myōjō</em>. Akiko was also associated with <em>Seitō</em>, the first Japanese feminist literary magazine, and played a crucial role “in the establishment of _Bunka Gakuin_, a pioneering, arts-oriented girls’ private school in Japan” (FIREBIRD 1-2).
