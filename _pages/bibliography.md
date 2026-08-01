@@ -6,15 +6,17 @@ show-title: true
 ---
 1. <em>A Girl with Tangled Hair: The 399 Tanka in</em> Midaregami - Tangled Hair. Translated by Jane Reichhold and Machiko Kobayashi, AHA Books, 2013.
 
-2. <em>Midaregami [a Machine-Readable Transcription]</em>. https://jti.lib.virginia.edu/japanese/midaregami/YosMida.html. Accessed 18 Mar. 2026.
+2. Beichman, Janine. _Embracing the Firebird: Yosano Akiko and the Birth of the Female Voice in Modern Japanese Poetry_. University of Hawaii Press, 2017. _DOI.org (Crossref)_, https://doi.org/10.1515/9780824862343.
 
-3. <em>River of Stars: Selected Poems of Yosano Akiko</em>, Translated by Sam Hamill and Keiko Matsui Gibson, 1996.
+3. <em>Midaregami [a Machine-Readable Transcription]</em>. https://jti.lib.virginia.edu/japanese/midaregami/YosMida.html. Accessed 18 Mar. 2026.
 
-4. “Suggesting a Language-Specific Gender Perspective for AI Translation Research.” The Digital Orientalist, 23 Jan. 2026, https://digitalorientalist.com/2026/01/23/suggesting-a-language-specific-gender-perspective-for-ai-translation-research/.
+4. <em>River of Stars: Selected Poems of Yosano Akiko</em>, Translated by Sam Hamill and Keiko Matsui Gibson, 1996.
 
-5. <em>Tangled Hair: Selected Tanka of Yosano Akiko</em>, Translated by Dennis Maloney and Hide Oshiro, 2012.
+5. “Suggesting a Language-Specific Gender Perspective for AI Translation Research.” The Digital Orientalist, 23 Jan. 2026, https://digitalorientalist.com/2026/01/23/suggesting-a-language-specific-gender-perspective-for-ai-translation-research/.
 
-6. “Yosano Akiko.” Poetry Foundation, https://www.poetryfoundation.org/poets/yosano-akiko.
+6. <em>Tangled Hair: Selected Tanka of Yosano Akiko</em>, Translated by Dennis Maloney and Hide Oshiro, 2012.
+
+7. “Yosano Akiko.” Poetry Foundation, https://www.poetryfoundation.org/poets/yosano-akiko.
 
 8. “Yosano Akiko." Portraits of Modern Japanese Historical Figures, National Diet Library, Japan. <em>Portraits of Modern Japanese Historical Figures</em>, https://www.ndl.go.jp/portrait/e/datas/347. Accessed 18 Mar. 2026.
 
