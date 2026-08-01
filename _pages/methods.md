@@ -6,7 +6,7 @@ show-title: true
 ---
 # A Case for TEI
 
-While Akiko is one of the most talented, versatile writers of the twentieth century,  her work remains widely underrepresented in literary studies. While the _Midaregami_ may be Akiko’s most _famous_ work, there is very limited scholarship about her life (her family dynamics, literary influences, etc.), this collection of 399 tankas, or her other publications. Poetry.org and The Japanese National Diet, for example, both have webpages dedicated to Akiko, but these are simply snapshots of her work and do not include excerpts for readers to engage with.
+While Akiko is one of the most talented, versatile writers of the twentieth century,  her work remains widely underrepresented in literary studies. The _Midaregami_ may be Akiko’s most _famous_ work, but there is very limited scholarship about her life (her family dynamics, literary influences, etc.), this collection of 399 tankas, or her other publications. Poetry.org and The Japanese National Diet, for example, both have webpages dedicated to Akiko, but these are simply snapshots of her work and do not include excerpts for readers to engage with.
 
 ---
 
