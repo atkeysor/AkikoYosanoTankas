@@ -20,6 +20,17 @@ In pursuit of literary opportunities, Akiko moved to Tokyo as a young adult and 
 
 Scholars position Yosano Akiko as a transformative figure in the emergence of a modern, self‑assertive female poetic voice in Japan. Janine Beichman’s monograph is foundational in this regard, arguing that _Midaregami (Tangled Hair)_ inaugurated “the birth of the female voice in modern Japanese poetry” by foregrounding erotic desire, emotional autonomy, and a personal lyric subjectivity (Beichman 42). This reading aligns with institutional biographies from the Japanese National Diet Library and the Poetry Foundation, which emphasize Akiko’s broader cultural role as a feminist, pacifist, and public intellectual. Together, these sources frame Akiko not only as a literary innovator but also as a central participant in the sociopolitical reimagining of women’s agency during the late Meiji and Taishō periods.
 
+---
+
+<p align="center">
+    <img src="assets/img/yosano9.jpg" />
+</p>
+<p align="center">
+    <l> <em> The Living Haiku Anthology - Akiko, Yosano </em> </l>
+</p>
+
+---
+
 Biographical scholarship also highlights how Akiko’s personal life shaped her literary development. In pursuit of literary opportunities, she moved to Tokyo as a young adult and immersed herself in the city’s vibrant artistic networks. There she met Yosano Tekkan, poet and founder of _Myōjō_, who became both her mentor and eventual partner. Their relationship—initially a scandalous affair that led to Tekkan’s separation from his first wife—culminated in their marriage in 1901. The couple raised thirteen children, eleven of whom survived into adulthood, and maintained a productive literary partnership until Tekkan’s death in 1935 (Beichman 29). This biographical context, echoed in both historical and literary scholarship, underscores how Akiko’s emergence as a major poet was intertwined with Tokyo’s modernizing cultural sphere and with the collaborative, though sometimes controversial, dynamics of her marriage.
 
 Critical attention to Midaregami itself has focused on how Akiko’s tanka sequence constructs a new mode of female self‑representation. Phyllis Hyland Larson’s influential essay describes the work as an “autogynography,” a self‑writing through which Akiko reclaims the female body and erotic desire as legitimate poetic subjects (10). James O’Brien similarly examines the sequence’s reception, noting how early critics were unsettled by its frank sensuality and its departure from classical restraint (4). These readings are reinforced by the availability of the full Japanese text in the UVA machine‑readable transcription and by multiple English translations—Reichhold and Kobayashi’s complete rendering, Hamill and Gibson’s broader selection, and Maloney and Oshiro’s curated volume—which collectively demonstrate how Akiko’s linguistic daring continues to challenge translators and shape interpretive possibilities.
