@@ -24,9 +24,11 @@ show-title: true
 
 10. <em>Tangled Hair: Selected Tanka of Yosano Akiko</em>, Translated by Dennis Maloney and Hide Oshiro, 2012.
 
-11. “Yosano Akiko.” Poetry Foundation, https://www.poetryfoundation.org/poets/yosano-akiko.
+11. _The Living Haiku Anthology - Akiko, Yosano_. https://livinghaikuanthology.com/index-of-poets/livinglegacies/2693-yosano-akiko.html. Accessed 2 Aug. 2026.
 
-12. “Yosano Akiko." Portraits of Modern Japanese Historical Figures, National Diet Library, Japan. <em>Portraits of Modern Japanese Historical Figures</em>, https://www.ndl.go.jp/portrait/e/datas/347. Accessed 18 Mar. 2026.
+12. “Yosano Akiko.” Poetry Foundation, https://www.poetryfoundation.org/poets/yosano-akiko.
+
+13. “Yosano Akiko." Portraits of Modern Japanese Historical Figures, National Diet Library, Japan. <em>Portraits of Modern Japanese Historical Figures</em>, https://www.ndl.go.jp/portrait/e/datas/347. Accessed 18 Mar. 2026.
 
 ---
 
