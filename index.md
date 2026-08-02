@@ -27,7 +27,7 @@ This TEI project, powered by GitHub and EditionCrafter, attempts **to preserve Y
 ---
 
 <p align="center">
-    <b> <em>“My poems are my diary”</em> - Yosano Akiko(FIREBIRD 2). </b>
+    <b> <em>“My poems are my diary”</em> - Yosano Akiko (Beichman 2). </b>
 </p>
 
 ---
